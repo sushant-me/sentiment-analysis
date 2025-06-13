@@ -1,0 +1,891 @@
+2025-05-06 14:14:58,573 - __main__ - INFO - Starting data ingestion pipeline
+2025-05-06 14:14:58,573 - __main__ - INFO - Generating mock NEPSE stock data for NABIL
+2025-05-06 14:14:58,606 - __main__ - INFO - Saved NEPSE stock data for NABIL to nepse_data_NABIL.csv with 90 records
+2025-05-06 14:14:58,608 - __main__ - INFO - Generating mock news data for NABIL
+2025-05-06 14:14:58,612 - __main__ - INFO - Saved news data for NABIL to news_data_NABIL.csv with 90 records
+2025-05-06 14:14:58,612 - __main__ - INFO - Generating mock NEPSE stock data for NRIC
+2025-05-06 14:14:58,619 - __main__ - INFO - Saved NEPSE stock data for NRIC to nepse_data_NRIC.csv with 90 records
+2025-05-06 14:14:58,619 - __main__ - INFO - Generating mock news data for NRIC
+2025-05-06 14:14:58,628 - __main__ - INFO - Saved news data for NRIC to news_data_NRIC.csv with 90 records
+2025-05-06 14:14:58,628 - __main__ - INFO - Generating mock NEPSE stock data for SHIVM
+2025-05-06 14:14:58,636 - __main__ - INFO - Saved NEPSE stock data for SHIVM to nepse_data_SHIVM.csv with 90 records
+2025-05-06 14:14:58,636 - __main__ - INFO - Generating mock news data for SHIVM
+2025-05-06 14:14:58,642 - __main__ - INFO - Saved news data for SHIVM to news_data_SHIVM.csv with 90 records
+2025-05-06 14:14:58,642 - __main__ - INFO - Generating mock NEPSE stock data for HBL
+2025-05-06 14:14:58,650 - __main__ - INFO - Saved NEPSE stock data for HBL to nepse_data_HBL.csv with 90 records
+2025-05-06 14:14:58,650 - __main__ - INFO - Generating mock news data for HBL
+2025-05-06 14:14:58,656 - __main__ - INFO - Saved news data for HBL to news_data_HBL.csv with 90 records
+2025-05-06 14:14:58,658 - __main__ - INFO - Generating mock NEPSE stock data for EBL
+2025-05-06 14:14:58,663 - __main__ - INFO - Saved NEPSE stock data for EBL to nepse_data_EBL.csv with 90 records
+2025-05-06 14:14:58,663 - __main__ - INFO - Generating mock news data for EBL
+2025-05-06 14:14:58,669 - __main__ - INFO - Saved news data for EBL to news_data_EBL.csv with 90 records
+2025-05-06 14:14:58,672 - __main__ - INFO - Generating mock NEPSE stock data for SCB
+2025-05-06 14:14:58,677 - __main__ - INFO - Saved NEPSE stock data for SCB to nepse_data_SCB.csv with 90 records
+2025-05-06 14:14:58,677 - __main__ - INFO - Generating mock news data for SCB
+2025-05-06 14:14:58,681 - __main__ - INFO - Saved news data for SCB to news_data_SCB.csv with 90 records
+2025-05-06 14:14:58,681 - __main__ - INFO - Generating mock NEPSE stock data for KBL
+2025-05-06 14:14:58,686 - __main__ - INFO - Saved NEPSE stock data for KBL to nepse_data_KBL.csv with 90 records
+2025-05-06 14:14:58,686 - __main__ - INFO - Generating mock news data for KBL
+2025-05-06 14:14:58,700 - __main__ - INFO - Saved news data for KBL to news_data_KBL.csv with 90 records
+2025-05-06 14:14:58,700 - __main__ - INFO - Generating mock NEPSE stock data for NMB
+2025-05-06 14:14:58,700 - __main__ - INFO - Saved NEPSE stock data for NMB to nepse_data_NMB.csv with 90 records
+2025-05-06 14:14:58,700 - __main__ - INFO - Generating mock news data for NMB
+2025-05-06 14:14:58,712 - __main__ - INFO - Saved news data for NMB to news_data_NMB.csv with 90 records
+2025-05-06 14:14:58,712 - __main__ - INFO - Generating mock NEPSE stock data for GBIME
+2025-05-06 14:14:58,716 - __main__ - INFO - Saved NEPSE stock data for GBIME to nepse_data_GBIME.csv with 90 records
+2025-05-06 14:14:58,716 - __main__ - INFO - Generating mock news data for GBIME
+2025-05-06 14:14:58,716 - __main__ - INFO - Saved news data for GBIME to news_data_GBIME.csv with 90 records
+2025-05-06 14:14:58,716 - __main__ - INFO - Generating mock NEPSE stock data for NICA
+2025-05-06 14:14:58,726 - __main__ - INFO - Saved NEPSE stock data for NICA to nepse_data_NICA.csv with 90 records
+2025-05-06 14:14:58,726 - __main__ - INFO - Generating mock news data for NICA
+2025-05-06 14:14:58,726 - __main__ - INFO - Saved news data for NICA to news_data_NICA.csv with 90 records
+2025-05-06 14:14:58,726 - __main__ - INFO - Generating mock NEPSE stock data for PRVU
+2025-05-06 14:14:58,732 - __main__ - INFO - Saved NEPSE stock data for PRVU to nepse_data_PRVU.csv with 90 records
+2025-05-06 14:14:58,732 - __main__ - INFO - Generating mock news data for PRVU
+2025-05-06 14:14:58,741 - __main__ - INFO - Saved news data for PRVU to news_data_PRVU.csv with 90 records
+2025-05-06 14:14:58,742 - __main__ - INFO - Generating mock NEPSE stock data for SBI
+2025-05-06 14:14:58,747 - __main__ - INFO - Saved NEPSE stock data for SBI to nepse_data_SBI.csv with 90 records
+2025-05-06 14:14:58,747 - __main__ - INFO - Generating mock news data for SBI
+2025-05-06 14:14:58,752 - __main__ - INFO - Saved news data for SBI to news_data_SBI.csv with 90 records
+2025-05-06 14:14:58,752 - __main__ - INFO - Generating mock NEPSE stock data for ADBL
+2025-05-06 14:14:58,759 - __main__ - INFO - Saved NEPSE stock data for ADBL to nepse_data_ADBL.csv with 90 records
+2025-05-06 14:14:58,759 - __main__ - INFO - Generating mock news data for ADBL
+2025-05-06 14:14:58,759 - __main__ - INFO - Saved news data for ADBL to news_data_ADBL.csv with 90 records
+2025-05-06 14:14:58,759 - __main__ - INFO - Data ingestion pipeline completed
+2025-05-06 21:23:36,045 - __main__ - INFO - Starting data ingestion pipeline
+2025-05-06 21:23:36,046 - __main__ - INFO - Processing stock data for NIMB
+2025-05-06 21:23:36,051 - __main__ - ERROR - Error loading NIMB.xlsx for NIMB: Missing optional dependency 'openpyxl'.  Use pip or conda to install openpyxl.
+2025-05-06 21:23:36,052 - __main__ - ERROR - Error generating stock data for NIMB: 'Date'
+2025-05-06 21:23:36,053 - __main__ - INFO - Fetching news data for NIMB
+2025-05-06 21:23:36,054 - __main__ - INFO - Scraping news from https://eng.merolagani.com/ for NIMB
+2025-05-06 21:23:36,305 - __main__ - INFO - Scraped 0 news items from https://eng.merolagani.com/
+2025-05-06 21:23:36,306 - __main__ - INFO - Scraping news from https://www.sharesansar.com/ for NIMB
+2025-05-06 21:23:41,673 - __main__ - INFO - Scraped 0 news items from https://www.sharesansar.com/
+2025-05-06 21:23:41,673 - __main__ - INFO - Scraping news from https://nepsealpha.com/ for NIMB
+2025-05-06 21:23:42,635 - __main__ - ERROR - Error scraping https://nepsealpha.com/: 403 Client Error: Forbidden for url: https://nepsealpha.com/
+2025-05-06 21:23:42,636 - __main__ - INFO - Scraping news from https://ekantipur.com/business for NIMB
+2025-05-06 21:23:43,679 - __main__ - INFO - Scraped 0 news items from https://ekantipur.com/business
+2025-05-06 21:23:43,680 - __main__ - WARNING - No new news scraped. Using cached data or generating mock data.
+2025-05-06 21:23:43,680 - __main__ - INFO - Generating mock news data for NIMB as fallback
+2025-05-06 21:23:43,694 - __main__ - INFO - Saved news data for NIMB to news_data_NIMB.csv with 23 records
+2025-05-06 21:23:43,697 - __main__ - INFO - Updated news cache to nimb_news.csv
+2025-05-06 21:23:43,698 - __main__ - INFO - Data ingestion pipeline completed
+2025-05-06 21:29:27,757 - __main__ - INFO - Starting data ingestion pipeline
+2025-05-06 21:29:27,757 - __main__ - INFO - Processing stock data for NIMB
+2025-05-06 21:29:27,762 - __main__ - ERROR - Error loading NIMB.xlsx for NIMB: Missing optional dependency 'openpyxl'.  Use pip or conda to install openpyxl.. Ensure openpyxl is installed (pip install openpyxl) and the file exists.
+2025-05-06 21:29:27,762 - __main__ - INFO - Proceeding with mock data for NIMB
+2025-05-06 21:29:27,762 - __main__ - ERROR - Unexpected error generating stock data for NIMB: 'Date'
+2025-05-06 21:29:27,762 - __main__ - INFO - Fetching news data for NIMB
+2025-05-06 21:29:27,776 - __main__ - ERROR - Error loading cached news: 'date'
+2025-05-06 21:29:27,776 - __main__ - INFO - Scraping news from https://eng.merolagani.com/ for NIMB
+2025-05-06 21:29:28,015 - __main__ - INFO - Scraped 0 news items from https://eng.merolagani.com/
+2025-05-06 21:29:29,016 - __main__ - INFO - Scraping news from https://www.sharesansar.com/ for NIMB
+2025-05-06 21:29:33,668 - __main__ - INFO - Scraped 0 news items from https://www.sharesansar.com/
+2025-05-06 21:29:34,670 - __main__ - INFO - Scraping news from https://nepsealpha.com/ for NIMB
+2025-05-06 21:29:35,189 - __main__ - ERROR - Error scraping https://nepsealpha.com/: 403 Client Error: Forbidden for url: https://nepsealpha.com/
+2025-05-06 21:29:35,189 - __main__ - INFO - Scraping news from https://ekantipur.com/business for NIMB
+2025-05-06 21:29:35,975 - __main__ - INFO - Scraped 0 news items from https://ekantipur.com/business
+2025-05-06 21:29:36,976 - __main__ - WARNING - No new news scraped. Using cached data or generating mock data.
+2025-05-06 21:29:36,976 - __main__ - ERROR - Error fetching news data for NIMB: 'date'
+2025-05-06 21:29:36,976 - __main__ - INFO - Data ingestion pipeline completed
+2025-05-06 21:30:31,352 - __main__ - INFO - Starting data ingestion pipeline
+2025-05-06 21:30:31,352 - __main__ - INFO - Processing stock data for NIMB
+2025-05-06 21:30:31,546 - __main__ - INFO - Loaded 23 records from NIMB.xlsx for NIMB
+2025-05-06 21:30:31,550 - __main__ - INFO - Generated mock data for 23 missing trading dates
+2025-05-06 21:30:31,556 - __main__ - INFO - Saved NEPSE stock data for NIMB to nepse_data_NIMB.csv with 23 records
+2025-05-06 21:30:31,557 - __main__ - INFO - Fetching news data for NIMB
+2025-05-06 21:30:31,560 - __main__ - ERROR - Error loading cached news: 'date'
+2025-05-06 21:30:31,560 - __main__ - INFO - Scraping news from https://eng.merolagani.com/ for NIMB
+2025-05-06 21:30:31,729 - __main__ - INFO - Scraped 0 news items from https://eng.merolagani.com/
+2025-05-06 21:30:32,730 - __main__ - INFO - Scraping news from https://www.sharesansar.com/ for NIMB
+2025-05-06 21:30:34,709 - __main__ - INFO - Scraped 0 news items from https://www.sharesansar.com/
+2025-05-06 21:30:35,710 - __main__ - INFO - Scraping news from https://nepsealpha.com/ for NIMB
+2025-05-06 21:30:36,201 - __main__ - ERROR - Error scraping https://nepsealpha.com/: 403 Client Error: Forbidden for url: https://nepsealpha.com/
+2025-05-06 21:30:36,201 - __main__ - INFO - Scraping news from https://ekantipur.com/business for NIMB
+2025-05-06 21:30:37,125 - __main__ - INFO - Scraped 0 news items from https://ekantipur.com/business
+2025-05-06 21:30:38,127 - __main__ - WARNING - No new news scraped. Using cached data or generating mock data.
+2025-05-06 21:30:38,127 - __main__ - ERROR - Error fetching news data for NIMB: 'date'
+2025-05-06 21:30:38,127 - __main__ - INFO - Data ingestion pipeline completed
+2025-05-06 22:35:24,426 - __main__ - INFO - Starting data ingestion pipeline
+2025-05-06 22:35:24,435 - __main__ - INFO - Processing stock data for NIMB
+2025-05-06 22:35:24,755 - __main__ - INFO - Loaded 23 records from NIMB.xlsx for NIMB
+2025-05-06 22:35:24,763 - __main__ - INFO - Generated mock data for 23 missing trading dates
+2025-05-06 22:35:24,774 - __main__ - INFO - Saved NEPSE stock data for NIMB to nepse_data_NIMB.csv with 23 records
+2025-05-06 22:35:24,774 - __main__ - INFO - Fetching news data for NIMB
+2025-05-06 22:35:24,780 - __main__ - ERROR - Error loading cached news: 'date'
+2025-05-06 22:35:24,780 - __main__ - INFO - Scraping news from https://eng.merolagani.com/ for NIMB
+2025-05-06 22:35:25,004 - __main__ - INFO - Scraped 0 news items from https://eng.merolagani.com/
+2025-05-06 22:35:26,009 - __main__ - INFO - Scraping news from https://www.sharesansar.com/ for NIMB
+2025-05-06 22:35:27,787 - __main__ - INFO - Scraped 0 news items from https://www.sharesansar.com/
+2025-05-06 22:35:28,789 - __main__ - INFO - Scraping news from https://ekantipur.com/business for NIMB
+2025-05-06 22:35:29,569 - __main__ - INFO - Scraped 0 news items from https://ekantipur.com/business
+2025-05-06 22:35:30,574 - __main__ - WARNING - No new news scraped. Using cached data or generating mock data.
+2025-05-06 22:35:30,574 - __main__ - ERROR - Error fetching news data for NIMB: 'date'
+2025-05-06 22:35:30,574 - __main__ - INFO - Data ingestion pipeline completed
+2025-05-06 22:40:17,900 - __main__ - INFO - Starting data ingestion pipeline
+2025-05-06 22:40:17,900 - __main__ - INFO - Processing stock data for NIMB
+2025-05-06 22:40:18,144 - __main__ - INFO - Loaded 23 records from NIMB.xlsx for NIMB
+2025-05-06 22:40:18,150 - __main__ - INFO - Generated mock data for 23 missing trading dates
+2025-05-06 22:40:18,162 - __main__ - INFO - Saved NEPSE stock data for NIMB to nepse_data_NIMB.csv with 23 records
+2025-05-06 22:40:18,162 - __main__ - INFO - Fetching news data for NIMB
+2025-05-06 22:40:18,163 - __main__ - ERROR - Error loading cached news: 'date'
+2025-05-06 22:40:18,163 - __main__ - INFO - Scraping news from https://eng.merolagani.com/ for NIMB
+2025-05-06 22:40:18,353 - __main__ - INFO - Scraped 0 news items from https://eng.merolagani.com/
+2025-05-06 22:40:19,356 - __main__ - INFO - Scraping news from https://www.sharesansar.com/ for NIMB
+2025-05-06 22:40:21,013 - __main__ - INFO - Scraped 0 news items from https://www.sharesansar.com/
+2025-05-06 22:40:22,019 - __main__ - INFO - Scraping news from https://ekantipur.com/business for NIMB
+2025-05-06 22:40:22,842 - __main__ - INFO - Scraped 0 news items from https://ekantipur.com/business
+2025-05-06 22:40:23,845 - __main__ - WARNING - No new news scraped. Using cached data or generating mock data.
+2025-05-06 22:40:23,856 - __main__ - ERROR - Error fetching news data for NIMB: 'Series' object has no attribute 'normalize'
+2025-05-06 22:40:23,856 - __main__ - INFO - Data ingestion pipeline completed
+2025-05-06 22:47:49,917 - __main__ - INFO - Starting data ingestion pipeline
+2025-05-06 22:47:49,917 - __main__ - INFO - Processing stock data for NIMB
+2025-05-06 22:47:50,195 - __main__ - INFO - Loaded 23 records from NIMB.xlsx for NIMB
+2025-05-06 22:47:50,204 - __main__ - INFO - Generated mock data for 23 missing trading dates
+2025-05-06 22:47:50,213 - __main__ - INFO - Saved NEPSE stock data for NIMB to nepse_data_NIMB.csv with 23 records
+2025-05-06 22:47:50,213 - __main__ - INFO - Fetching news data for NIMB
+2025-05-06 22:47:50,213 - __main__ - ERROR - Error loading cached news: 'date'
+2025-05-06 22:47:52,105 - __main__ - INFO - Fetched 0 news items from NewsAPI
+2025-05-06 22:47:52,105 - __main__ - ERROR - Error fetching news data for NIMB: 'date'
+2025-05-06 22:47:52,105 - __main__ - INFO - Data ingestion pipeline completed
+2025-05-06 22:50:31,252 - __main__ - INFO - Starting data ingestion pipeline
+2025-05-06 22:50:31,252 - __main__ - INFO - Processing stock data for NIMB
+2025-05-06 22:50:31,525 - __main__ - INFO - Loaded 23 records from NIMB.xlsx for NIMB
+2025-05-06 22:50:31,530 - __main__ - INFO - Generated mock data for 23 missing trading dates
+2025-05-06 22:50:31,540 - __main__ - INFO - Saved NEPSE stock data for NIMB to nepse_data_NIMB.csv with 23 records
+2025-05-06 22:50:31,540 - __main__ - INFO - Fetching news data for NIMB
+2025-05-06 22:50:31,543 - __main__ - ERROR - Error loading cached news: 'date'
+2025-05-06 22:50:31,543 - __main__ - INFO - Scraping news from https://www.thehimalayantimes.com/business for NIMB
+2025-05-06 22:50:33,023 - __main__ - INFO - Scraped 0 news items from https://www.thehimalayantimes.com/business
+2025-05-06 22:50:35,025 - __main__ - INFO - Scraping news from https://www.investing.com/news/stock-market-news for NIMB
+2025-05-06 22:50:35,090 - __main__ - ERROR - Error scraping https://www.investing.com/news/stock-market-news: 403 Client Error: Forbidden for url: https://www.investing.com/news/stock-market-news
+2025-05-06 22:50:35,090 - __main__ - INFO - Scraping news from https://www.bloomberg.com/asia for NIMB
+2025-05-06 22:50:36,970 - __main__ - INFO - Scraped 0 news items from https://www.bloomberg.com/asia
+2025-05-06 22:50:38,971 - __main__ - WARNING - No new news scraped. Using cached data or generating mock data.
+2025-05-06 22:50:38,971 - __main__ - ERROR - Error fetching news data for NIMB: 'date'
+2025-05-06 22:50:38,971 - __main__ - INFO - Data ingestion pipeline completed
+2025-05-06 22:55:38,088 - __main__ - INFO - Starting data ingestion pipeline
+2025-05-06 22:55:38,088 - __main__ - INFO - Processing stock data for NIMB
+2025-05-06 22:55:38,349 - __main__ - INFO - Loaded 23 records from NIMB.xlsx for NIMB
+2025-05-06 22:55:38,359 - __main__ - INFO - Generated mock data for 23 missing trading dates
+2025-05-06 22:55:38,369 - __main__ - INFO - Saved NEPSE stock data for NIMB to nepse_data_NIMB.csv with 23 records
+2025-05-06 22:55:38,369 - __main__ - INFO - Fetching news data for NIMB
+2025-05-06 22:55:38,375 - __main__ - ERROR - Error loading cached news: 'date'
+2025-05-06 22:55:38,375 - __main__ - INFO - Scraping news from https://www.thehimalayantimes.com/business for NIMB
+2025-05-06 22:55:39,515 - __main__ - INFO - Scraped 0 news items from https://www.thehimalayantimes.com/business
+2025-05-06 22:55:41,518 - __main__ - INFO - Scraping news from https://www.investing.com/news/stock-market-news for NIMB
+2025-05-06 22:55:41,619 - __main__ - ERROR - Error scraping https://www.investing.com/news/stock-market-news: 403 Client Error: Forbidden for url: https://www.investing.com/news/stock-market-news
+2025-05-06 22:55:41,619 - __main__ - INFO - Scraping news from https://www.bloomberg.com/asia for NIMB
+2025-05-06 22:55:43,525 - __main__ - INFO - Scraped 0 news items from https://www.bloomberg.com/asia
+2025-05-06 22:55:45,529 - __main__ - WARNING - No new news scraped. Using cached data or generating mock data.
+2025-05-06 22:55:45,531 - __main__ - ERROR - Error fetching news data for NIMB: 'date'
+2025-05-06 22:55:45,531 - __main__ - INFO - Data ingestion pipeline completed
+2025-05-06 23:24:34,178 - data_ingestion - ERROR - Error loading stock data for NIMB: [Errno 2] No such file or directory: 'C:\\Users\\hp\\Desktop\\sentiment\\nepse_data_NIMB.xlsx'
+2025-05-06 23:24:34,178 - data_ingestion - INFO - Using mock stock data for NIMB
+2025-05-06 23:24:34,178 - data_ingestion - ERROR - Error loading news data for NIMB: [Errno 2] No such file or directory: 'C:\\Users\\hp\\Desktop\\sentiment\\news_data_NIMB.xlsx'
+2025-05-06 23:24:34,178 - data_ingestion - INFO - Using mock news data for NIMB
+2025-05-06 23:24:34,178 - dataprocessing - INFO - Processed stock data for NIMB with 23 records
+2025-05-06 23:24:34,178 - dataprocessing - INFO - Processed news data for NIMB with 23 records
+2025-05-06 23:24:34,367 - dataprocessing - INFO - Scraped 45 items from https://eng.merolagani.com/
+2025-05-06 23:24:38,033 - dataprocessing - INFO - Scraped 0 items from https://www.sharesansar.com/
+2025-05-06 23:24:41,132 - dataprocessing - INFO - Scraped 20 items from https://ekantipur.com/business
+2025-05-06 23:24:43,134 - dataprocessing - WARNING - No sentiment data scraped, using mock data
+2025-05-06 23:24:43,134 - dataprocessing - INFO - Using mock sentiment data with 23 records
+2025-05-06 23:24:43,540 - dataprocessing - INFO - Generated news graph for NIMB at C:\Users\hp\Desktop\sentiment\news_plot.png
+2025-05-06 23:24:43,875 - dataprocessing - INFO - Generated sentiment graph at C:\Users\hp\Desktop\sentiment\sentiment_plot.png
+2025-05-06 23:24:43,905 - prediction_engine - INFO - Successfully saved predicted prices to C:\Users\hp\Desktop\sentiment\nimb_predicted_prices.json
+2025-05-06 23:28:56,783 - __main__ - INFO - Starting pipeline execution
+2025-05-06 23:28:56,787 - __main__ - INFO - Processing shares: ['NIMB']
+2025-05-06 23:28:56,787 - __main__ - INFO - Processing share: NIMB
+2025-05-06 23:28:56,787 - data_ingestion - ERROR - Error loading stock data for NIMB: Stock data file not found at C:\Users\hp\Desktop\sentiment\nepse_data_NIMB.xlsx
+2025-05-06 23:28:56,787 - data_ingestion - INFO - Using mock stock data for NIMB due to error
+2025-05-06 23:28:56,787 - data_ingestion - ERROR - Error loading news data for NIMB: News data file not found at C:\Users\hp\Desktop\sentiment\news_data_NIMB.xlsx
+2025-05-06 23:28:56,787 - data_ingestion - INFO - Using mock news data for NIMB due to error
+2025-05-06 23:28:56,787 - data_ingestion - INFO - Generated mock sentiment data for NIMB
+2025-05-06 23:28:56,791 - dataprocessing - INFO - Processed stock data for NIMB with 23 records
+2025-05-06 23:28:56,791 - dataprocessing - INFO - Processed news data for NIMB with 23 records
+2025-05-06 23:28:56,987 - dataprocessing - INFO - Scraped 45 items from https://eng.merolagani.com/
+2025-05-06 23:29:00,846 - dataprocessing - INFO - Scraped 0 items from https://www.sharesansar.com/
+2025-05-06 23:29:03,780 - dataprocessing - INFO - Scraped 20 items from https://ekantipur.com/business
+2025-05-06 23:29:05,784 - dataprocessing - WARNING - No sentiment data scraped, using mock data
+2025-05-06 23:29:05,784 - dataprocessing - INFO - Using mock sentiment data with 23 records
+2025-05-06 23:29:06,175 - dataprocessing - INFO - Generated news graph for NIMB at C:\Users\hp\Desktop\sentiment\news_plot.png
+2025-05-06 23:29:06,473 - dataprocessing - INFO - Generated sentiment graph at C:\Users\hp\Desktop\sentiment\sentiment_plot.png
+2025-05-06 23:29:06,473 - prediction_engine - INFO - Starting prediction for NIMB
+2025-05-06 23:29:06,483 - prediction_engine - INFO - Merged stock and sentiment data for NIMB, rows: 23
+2025-05-06 23:29:06,485 - prediction_engine - INFO - Trained linear regression model for NIMB
+2025-05-06 23:29:06,485 - prediction_engine - INFO - Generated predictions for NIMB, total points: 33
+2025-05-06 23:29:06,496 - prediction_engine - INFO - Added real-time price simulation for NIMB: 165.23456236880753
+2025-05-06 23:29:06,502 - prediction_engine - INFO - Successfully saved predicted prices to C:\Users\hp\Desktop\sentiment\nimb_predicted_prices.json
+2025-05-06 23:29:06,504 - __main__ - INFO - Pipeline execution completed successfully
+2025-05-06 23:30:25,002 - __main__ - INFO - Starting pipeline execution
+2025-05-06 23:30:25,004 - __main__ - INFO - Processing shares: ['NIMB']
+2025-05-06 23:30:25,004 - __main__ - INFO - Processing share: NIMB
+2025-05-06 23:30:25,202 - data_ingestion - ERROR - Error loading stock data for NIMB: 'Date'
+2025-05-06 23:30:25,202 - data_ingestion - INFO - Using mock stock data for NIMB due to error
+2025-05-06 23:30:25,202 - data_ingestion - ERROR - Error loading news data for NIMB: News data file not found at C:\Users\hp\Desktop\sentiment\news_data_NIMB.xlsx
+2025-05-06 23:30:25,202 - data_ingestion - INFO - Using mock news data for NIMB due to error
+2025-05-06 23:30:25,202 - data_ingestion - INFO - Generated mock sentiment data for NIMB
+2025-05-06 23:30:25,202 - dataprocessing - INFO - Processed stock data for NIMB with 23 records
+2025-05-06 23:30:25,202 - dataprocessing - INFO - Processed news data for NIMB with 23 records
+2025-05-06 23:30:25,392 - dataprocessing - INFO - Scraped 45 items from https://eng.merolagani.com/
+2025-05-06 23:30:29,329 - dataprocessing - INFO - Scraped 0 items from https://www.sharesansar.com/
+2025-05-06 23:30:32,354 - dataprocessing - INFO - Scraped 20 items from https://ekantipur.com/business
+2025-05-06 23:30:34,356 - dataprocessing - WARNING - No sentiment data scraped, using mock data
+2025-05-06 23:30:34,356 - dataprocessing - INFO - Using mock sentiment data with 23 records
+2025-05-06 23:30:34,762 - dataprocessing - INFO - Generated news graph for NIMB at C:\Users\hp\Desktop\sentiment\news_plot.png
+2025-05-06 23:30:35,077 - dataprocessing - INFO - Generated sentiment graph at C:\Users\hp\Desktop\sentiment\sentiment_plot.png
+2025-05-06 23:30:35,077 - prediction_engine - INFO - Starting prediction for NIMB
+2025-05-06 23:30:35,079 - prediction_engine - INFO - Merged stock and sentiment data for NIMB, rows: 23
+2025-05-06 23:30:35,082 - prediction_engine - INFO - Trained linear regression model for NIMB
+2025-05-06 23:30:35,082 - prediction_engine - INFO - Generated predictions for NIMB, total points: 33
+2025-05-06 23:30:35,092 - prediction_engine - INFO - Added real-time price simulation for NIMB: 166.70254384044875
+2025-05-06 23:30:35,096 - prediction_engine - INFO - Successfully saved predicted prices to C:\Users\hp\Desktop\sentiment\nimb_predicted_prices.json
+2025-05-06 23:30:35,096 - __main__ - INFO - Pipeline execution completed successfully
+2025-05-06 23:54:55,858 - INFO - Starting Sentimetrics AI application
+2025-05-06 23:54:55,904 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.14:5000
+2025-05-06 23:54:55,904 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-06 23:54:55,915 - INFO -  * Restarting with stat
+2025-05-06 23:54:58,073 - INFO - Starting Sentimetrics AI application
+2025-05-06 23:54:58,086 - WARNING -  * Debugger is active!
+2025-05-06 23:54:58,096 - INFO -  * Debugger PIN: 602-161-624
+2025-05-06 23:55:07,005 - INFO - Loaded 23 records from C:\Users\hp\Desktop\sentiment\nepse_data_NIMB.xlsx
+2025-05-06 23:55:07,183 - INFO - Extracted 0 articles from https://eng.merolagani.com/
+2025-05-06 23:55:07,393 - INFO - Extracted 0 articles from https://ekantipur.com/business
+2025-05-06 23:55:07,395 - INFO - Computed weighted sentiment: -0.046
+2025-05-06 23:55:07,395 - INFO - Generated 5-day predictions with sentiment adjustment: 0.995
+2025-05-06 23:55:07,444 - INFO - 127.0.0.1 - - [06/May/2025 23:55:07] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2025-05-06 23:55:07,480 - INFO - 127.0.0.1 - - [06/May/2025 23:55:07] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2025-05-06 23:55:07,506 - INFO - 127.0.0.1 - - [06/May/2025 23:55:07] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2025-05-06 23:55:07,562 - INFO - 127.0.0.1 - - [06/May/2025 23:55:07] "GET /?__debugger__=yes&cmd=resource&f=console.png&s=LGpNgIYgRJM7RsX9LH5v HTTP/1.1" 200 -
+2025-05-06 23:55:07,576 - INFO - 127.0.0.1 - - [06/May/2025 23:55:07] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2025-05-06 23:57:17,680 - INFO -  * Detected change in 'C:\\Users\\hp\\Desktop\\sentiment\\data_ingestion.py', reloading
+2025-05-06 23:57:18,203 - INFO -  * Restarting with stat
+2025-05-06 23:57:20,188 - INFO - Starting Sentimetrics AI application
+2025-05-06 23:57:20,191 - WARNING -  * Debugger is active!
+2025-05-06 23:57:20,205 - INFO -  * Debugger PIN: 602-161-624
+2025-05-06 23:57:34,761 - INFO -  * Detected change in 'C:\\Users\\hp\\Desktop\\sentiment\\dataprocessing.py', reloading
+2025-05-06 23:57:35,413 - INFO -  * Restarting with stat
+2025-05-06 23:57:37,551 - INFO - Starting Sentimetrics AI application
+2025-05-06 23:57:37,560 - WARNING -  * Debugger is active!
+2025-05-06 23:57:37,565 - INFO -  * Debugger PIN: 602-161-624
+2025-05-06 23:57:47,040 - INFO -  * Detected change in 'C:\\Users\\hp\\Desktop\\sentiment\\prediction_engine.py', reloading
+2025-05-06 23:57:47,291 - INFO -  * Restarting with stat
+2025-05-06 23:57:49,432 - INFO - Starting Sentimetrics AI application
+2025-05-06 23:57:49,448 - WARNING -  * Debugger is active!
+2025-05-06 23:57:49,453 - INFO -  * Debugger PIN: 602-161-624
+2025-05-06 23:57:58,384 - INFO -  * Detected change in 'C:\\Users\\hp\\Desktop\\sentiment\\main.py', reloading
+2025-05-06 23:57:58,665 - INFO -  * Restarting with stat
+2025-05-06 23:58:00,917 - INFO - Starting Sentimetrics AI application
+2025-05-06 23:58:00,932 - WARNING -  * Debugger is active!
+2025-05-06 23:58:00,933 - INFO -  * Debugger PIN: 602-161-624
+2025-05-07 00:10:05,216 - INFO -  * Detected change in 'C:\\Users\\hp\\Desktop\\sentiment\\data_ingestion.py', reloading
+2025-05-07 00:10:05,499 - INFO -  * Restarting with stat
+2025-05-07 00:15:57,340 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-07 00:15:57,340 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-07 00:15:57,354 - werkzeug - INFO -  * Restarting with stat
+2025-05-07 00:15:59,326 - werkzeug - WARNING -  * Debugger is active!
+2025-05-07 00:15:59,336 - werkzeug - INFO -  * Debugger PIN: 602-161-624
+2025-05-07 00:16:42,073 - __main__ - INFO - Fetching data for NIMB
+2025-05-07 00:16:42,073 - data_ingestion - INFO - Processing stock data for NIMB
+2025-05-07 00:16:42,435 - data_ingestion - INFO - Loaded 23 records from nepse_data_NIMB.xlsx for NIMB
+2025-05-07 00:16:42,436 - data_ingestion - INFO - Saved stock cache to stock_cache.pkl
+2025-05-07 00:16:42,436 - data_ingestion - INFO - Saved stock data for NIMB to nepse_data_NIMB.csv with 23 records
+2025-05-07 00:16:42,436 - data_ingestion - INFO - Fetching news data for NIMB
+2025-05-07 00:16:42,436 - data_ingestion - INFO - Scraping news from https://eng.merolagani.com/ for NIMB
+2025-05-07 00:16:42,688 - data_ingestion - INFO - Scraped 0 news items from https://eng.merolagani.com/
+2025-05-07 00:16:44,689 - data_ingestion - INFO - Scraping news from https://ekantipur.com/business for NIMB
+2025-05-07 00:16:44,797 - data_ingestion - INFO - Scraped 0 news items from https://ekantipur.com/business
+2025-05-07 00:16:46,799 - data_ingestion - WARNING - No real news scraped. Generating mock data.
+2025-05-07 00:16:46,811 - data_ingestion - INFO - Saved news cache to news_cache.pkl
+2025-05-07 00:16:46,811 - data_ingestion - INFO - Saved news data for NIMB to news_data_NIMB.csv with 23 records
+2025-05-07 00:16:46,811 - __main__ - INFO - Processing data for NIMB
+2025-05-07 00:16:46,811 - dataprocessing - ERROR - News data missing required columns
+2025-05-07 00:16:46,811 - dataprocessing - ERROR - Invalid news data for sentiment analysis
+2025-05-07 00:16:46,811 - __main__ - INFO - Generating predictions for NIMB
+2025-05-07 00:16:46,981 - __main__ - INFO - Dashboard data prepared: 26 data points for chart
+2025-05-07 00:16:46,981 - werkzeug - INFO - 127.0.0.1 - - [07/May/2025 00:16:46] "GET / HTTP/1.1" 200 -
+2025-05-07 00:16:47,216 - werkzeug - INFO - 127.0.0.1 - - [07/May/2025 00:16:47] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-05-07 00:20:49,455 - werkzeug - INFO -  * Detected change in 'C:\\Users\\hp\\Desktop\\sentiment\\dashboard.py', reloading
+2025-05-07 00:20:50,233 - werkzeug - INFO -  * Restarting with stat
+2025-05-07 00:21:23,813 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-07 00:21:23,813 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-07 00:21:23,820 - werkzeug - INFO -  * Restarting with stat
+2025-05-07 00:21:26,005 - werkzeug - WARNING -  * Debugger is active!
+2025-05-07 00:21:26,036 - werkzeug - INFO -  * Debugger PIN: 602-161-624
+2025-05-07 00:21:40,261 - __main__ - WARNING - Market is closed or it's a holiday
+2025-05-07 00:21:40,266 - werkzeug - INFO - 127.0.0.1 - - [07/May/2025 00:21:40] "[35m[1mGET / HTTP/1.1[0m" 503 -
+2025-05-07 00:21:42,709 - __main__ - WARNING - Market is closed or it's a holiday
+2025-05-07 00:21:42,709 - werkzeug - INFO - 127.0.0.1 - - [07/May/2025 00:21:42] "[35m[1mGET / HTTP/1.1[0m" 503 -
+2025-05-07 00:21:43,446 - __main__ - WARNING - Market is closed or it's a holiday
+2025-05-07 00:21:43,447 - werkzeug - INFO - 127.0.0.1 - - [07/May/2025 00:21:43] "[35m[1mGET / HTTP/1.1[0m" 503 -
+2025-05-07 00:21:43,957 - __main__ - WARNING - Market is closed or it's a holiday
+2025-05-07 00:21:43,957 - werkzeug - INFO - 127.0.0.1 - - [07/May/2025 00:21:43] "[35m[1mGET / HTTP/1.1[0m" 503 -
+2025-05-07 00:21:44,186 - __main__ - WARNING - Market is closed or it's a holiday
+2025-05-07 00:21:44,186 - werkzeug - INFO - 127.0.0.1 - - [07/May/2025 00:21:44] "[35m[1mGET / HTTP/1.1[0m" 503 -
+2025-05-07 00:21:44,413 - __main__ - WARNING - Market is closed or it's a holiday
+2025-05-07 00:21:44,414 - werkzeug - INFO - 127.0.0.1 - - [07/May/2025 00:21:44] "[35m[1mGET / HTTP/1.1[0m" 503 -
+2025-05-07 00:21:44,625 - __main__ - WARNING - Market is closed or it's a holiday
+2025-05-07 00:21:44,625 - werkzeug - INFO - 127.0.0.1 - - [07/May/2025 00:21:44] "[35m[1mGET / HTTP/1.1[0m" 503 -
+2025-05-07 00:21:44,881 - __main__ - WARNING - Market is closed or it's a holiday
+2025-05-07 00:21:44,881 - werkzeug - INFO - 127.0.0.1 - - [07/May/2025 00:21:44] "[35m[1mGET / HTTP/1.1[0m" 503 -
+2025-05-07 00:21:45,096 - __main__ - WARNING - Market is closed or it's a holiday
+2025-05-07 00:21:45,096 - werkzeug - INFO - 127.0.0.1 - - [07/May/2025 00:21:45] "[35m[1mGET / HTTP/1.1[0m" 503 -
+2025-05-07 00:21:45,318 - __main__ - WARNING - Market is closed or it's a holiday
+2025-05-07 00:21:45,319 - werkzeug - INFO - 127.0.0.1 - - [07/May/2025 00:21:45] "[35m[1mGET / HTTP/1.1[0m" 503 -
+2025-05-07 00:21:45,526 - __main__ - WARNING - Market is closed or it's a holiday
+2025-05-07 00:21:45,530 - werkzeug - INFO - 127.0.0.1 - - [07/May/2025 00:21:45] "[35m[1mGET / HTTP/1.1[0m" 503 -
+2025-05-07 00:21:45,730 - __main__ - WARNING - Market is closed or it's a holiday
+2025-05-07 00:21:45,730 - werkzeug - INFO - 127.0.0.1 - - [07/May/2025 00:21:45] "[35m[1mGET / HTTP/1.1[0m" 503 -
+2025-05-07 00:21:45,945 - __main__ - WARNING - Market is closed or it's a holiday
+2025-05-07 00:21:45,945 - werkzeug - INFO - 127.0.0.1 - - [07/May/2025 00:21:45] "[35m[1mGET / HTTP/1.1[0m" 503 -
+2025-05-07 00:21:46,147 - __main__ - WARNING - Market is closed or it's a holiday
+2025-05-07 00:21:46,149 - werkzeug - INFO - 127.0.0.1 - - [07/May/2025 00:21:46] "[35m[1mGET / HTTP/1.1[0m" 503 -
+2025-05-07 00:21:46,336 - __main__ - WARNING - Market is closed or it's a holiday
+2025-05-07 00:21:46,336 - werkzeug - INFO - 127.0.0.1 - - [07/May/2025 00:21:46] "[35m[1mGET / HTTP/1.1[0m" 503 -
+2025-05-07 00:21:46,545 - __main__ - WARNING - Market is closed or it's a holiday
+2025-05-07 00:21:46,549 - werkzeug - INFO - 127.0.0.1 - - [07/May/2025 00:21:46] "[35m[1mGET / HTTP/1.1[0m" 503 -
+2025-05-07 00:21:46,766 - __main__ - WARNING - Market is closed or it's a holiday
+2025-05-07 00:21:46,766 - werkzeug - INFO - 127.0.0.1 - - [07/May/2025 00:21:46] "[35m[1mGET / HTTP/1.1[0m" 503 -
+2025-05-07 00:24:55,207 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-07 00:24:55,207 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-07 00:24:55,210 - werkzeug - INFO -  * Restarting with stat
+2025-05-07 00:24:57,595 - werkzeug - WARNING -  * Debugger is active!
+2025-05-07 00:24:57,607 - werkzeug - INFO -  * Debugger PIN: 602-161-624
+2025-05-07 00:25:13,269 - __main__ - WARNING - Market is closed or it's a holiday
+2025-05-07 00:25:13,274 - __main__ - INFO - Fetching data for NIMB
+2025-05-07 00:25:13,274 - data_ingestion - INFO - Processing stock data for NIMB
+2025-05-07 00:25:13,304 - data_ingestion - INFO - Loaded stock cache from stock_cache.pkl
+2025-05-07 00:25:13,304 - data_ingestion - INFO - Using cached stock data for NIMB
+2025-05-07 00:25:13,305 - data_ingestion - INFO - Fetching news data for NIMB
+2025-05-07 00:25:13,324 - data_ingestion - INFO - Loaded news cache from news_cache.pkl
+2025-05-07 00:25:13,324 - data_ingestion - INFO - Using cached news data for NIMB
+2025-05-07 00:25:13,326 - __main__ - INFO - Processing data for NIMB
+2025-05-07 00:25:13,331 - dataprocessing - ERROR - News data missing required columns
+2025-05-07 00:25:13,332 - dataprocessing - ERROR - Invalid news data for sentiment analysis
+2025-05-07 00:25:13,332 - __main__ - INFO - Generating predictions for NIMB
+2025-05-07 00:25:13,435 - __main__ - ERROR - Error preparing dashboard data: integer division or modulo by zero
+2025-05-07 00:25:13,436 - werkzeug - INFO - 127.0.0.1 - - [07/May/2025 00:25:13] "[35m[1mGET / HTTP/1.1[0m" 503 -
+2025-05-07 00:25:15,398 - __main__ - WARNING - Market is closed or it's a holiday
+2025-05-07 00:25:15,406 - __main__ - INFO - Fetching data for NIMB
+2025-05-07 00:25:15,406 - data_ingestion - INFO - Processing stock data for NIMB
+2025-05-07 00:25:15,407 - data_ingestion - INFO - Loaded stock cache from stock_cache.pkl
+2025-05-07 00:25:15,410 - data_ingestion - INFO - Using cached stock data for NIMB
+2025-05-07 00:25:15,410 - data_ingestion - INFO - Fetching news data for NIMB
+2025-05-07 00:25:15,413 - data_ingestion - INFO - Loaded news cache from news_cache.pkl
+2025-05-07 00:25:15,413 - data_ingestion - INFO - Using cached news data for NIMB
+2025-05-07 00:25:15,413 - __main__ - INFO - Processing data for NIMB
+2025-05-07 00:25:15,416 - dataprocessing - ERROR - News data missing required columns
+2025-05-07 00:25:15,416 - dataprocessing - ERROR - Invalid news data for sentiment analysis
+2025-05-07 00:25:15,416 - __main__ - INFO - Generating predictions for NIMB
+2025-05-07 00:25:15,530 - __main__ - ERROR - Error preparing dashboard data: integer division or modulo by zero
+2025-05-07 00:25:15,530 - werkzeug - INFO - 127.0.0.1 - - [07/May/2025 00:25:15] "[35m[1mGET / HTTP/1.1[0m" 503 -
+2025-05-07 00:25:16,365 - __main__ - WARNING - Market is closed or it's a holiday
+2025-05-07 00:25:16,365 - __main__ - INFO - Fetching data for NIMB
+2025-05-07 00:25:16,365 - data_ingestion - INFO - Processing stock data for NIMB
+2025-05-07 00:25:16,367 - data_ingestion - INFO - Loaded stock cache from stock_cache.pkl
+2025-05-07 00:25:16,368 - data_ingestion - INFO - Using cached stock data for NIMB
+2025-05-07 00:25:16,368 - data_ingestion - INFO - Fetching news data for NIMB
+2025-05-07 00:25:16,368 - data_ingestion - INFO - Loaded news cache from news_cache.pkl
+2025-05-07 00:25:16,368 - data_ingestion - INFO - Using cached news data for NIMB
+2025-05-07 00:25:16,368 - __main__ - INFO - Processing data for NIMB
+2025-05-07 00:25:16,372 - dataprocessing - ERROR - News data missing required columns
+2025-05-07 00:25:16,372 - dataprocessing - ERROR - Invalid news data for sentiment analysis
+2025-05-07 00:25:16,372 - __main__ - INFO - Generating predictions for NIMB
+2025-05-07 00:25:16,461 - __main__ - ERROR - Error preparing dashboard data: integer division or modulo by zero
+2025-05-07 00:25:16,461 - werkzeug - INFO - 127.0.0.1 - - [07/May/2025 00:25:16] "[35m[1mGET / HTTP/1.1[0m" 503 -
+2025-05-07 00:25:16,956 - __main__ - WARNING - Market is closed or it's a holiday
+2025-05-07 00:25:16,956 - __main__ - INFO - Fetching data for NIMB
+2025-05-07 00:25:16,956 - data_ingestion - INFO - Processing stock data for NIMB
+2025-05-07 00:25:16,956 - data_ingestion - INFO - Loaded stock cache from stock_cache.pkl
+2025-05-07 00:25:16,958 - data_ingestion - INFO - Using cached stock data for NIMB
+2025-05-07 00:25:16,958 - data_ingestion - INFO - Fetching news data for NIMB
+2025-05-07 00:25:16,958 - data_ingestion - INFO - Loaded news cache from news_cache.pkl
+2025-05-07 00:25:16,958 - data_ingestion - INFO - Using cached news data for NIMB
+2025-05-07 00:25:16,960 - __main__ - INFO - Processing data for NIMB
+2025-05-07 00:25:16,961 - dataprocessing - ERROR - News data missing required columns
+2025-05-07 00:25:16,961 - dataprocessing - ERROR - Invalid news data for sentiment analysis
+2025-05-07 00:25:16,961 - __main__ - INFO - Generating predictions for NIMB
+2025-05-07 00:25:17,053 - __main__ - ERROR - Error preparing dashboard data: integer division or modulo by zero
+2025-05-07 00:25:17,053 - werkzeug - INFO - 127.0.0.1 - - [07/May/2025 00:25:17] "[35m[1mGET / HTTP/1.1[0m" 503 -
+2025-05-07 00:25:17,422 - __main__ - WARNING - Market is closed or it's a holiday
+2025-05-07 00:25:17,429 - __main__ - INFO - Fetching data for NIMB
+2025-05-07 00:25:17,429 - data_ingestion - INFO - Processing stock data for NIMB
+2025-05-07 00:25:17,429 - data_ingestion - INFO - Loaded stock cache from stock_cache.pkl
+2025-05-07 00:25:17,429 - data_ingestion - INFO - Using cached stock data for NIMB
+2025-05-07 00:25:17,431 - data_ingestion - INFO - Fetching news data for NIMB
+2025-05-07 00:25:17,431 - data_ingestion - INFO - Loaded news cache from news_cache.pkl
+2025-05-07 00:25:17,431 - data_ingestion - INFO - Using cached news data for NIMB
+2025-05-07 00:25:17,431 - __main__ - INFO - Processing data for NIMB
+2025-05-07 00:25:17,431 - dataprocessing - ERROR - News data missing required columns
+2025-05-07 00:25:17,431 - dataprocessing - ERROR - Invalid news data for sentiment analysis
+2025-05-07 00:25:17,436 - __main__ - INFO - Generating predictions for NIMB
+2025-05-07 00:25:17,547 - __main__ - ERROR - Error preparing dashboard data: integer division or modulo by zero
+2025-05-07 00:25:17,549 - werkzeug - INFO - 127.0.0.1 - - [07/May/2025 00:25:17] "[35m[1mGET / HTTP/1.1[0m" 503 -
+2025-05-07 00:25:17,850 - __main__ - WARNING - Market is closed or it's a holiday
+2025-05-07 00:25:17,853 - __main__ - INFO - Fetching data for NIMB
+2025-05-07 00:25:17,853 - data_ingestion - INFO - Processing stock data for NIMB
+2025-05-07 00:25:17,853 - data_ingestion - INFO - Loaded stock cache from stock_cache.pkl
+2025-05-07 00:25:17,855 - data_ingestion - INFO - Using cached stock data for NIMB
+2025-05-07 00:25:17,856 - data_ingestion - INFO - Fetching news data for NIMB
+2025-05-07 00:25:17,856 - data_ingestion - INFO - Loaded news cache from news_cache.pkl
+2025-05-07 00:25:17,856 - data_ingestion - INFO - Using cached news data for NIMB
+2025-05-07 00:25:17,858 - __main__ - INFO - Processing data for NIMB
+2025-05-07 00:25:17,860 - dataprocessing - ERROR - News data missing required columns
+2025-05-07 00:25:17,861 - dataprocessing - ERROR - Invalid news data for sentiment analysis
+2025-05-07 00:25:17,861 - __main__ - INFO - Generating predictions for NIMB
+2025-05-07 00:25:17,945 - __main__ - ERROR - Error preparing dashboard data: integer division or modulo by zero
+2025-05-07 00:25:17,945 - werkzeug - INFO - 127.0.0.1 - - [07/May/2025 00:25:17] "[35m[1mGET / HTTP/1.1[0m" 503 -
+2025-05-07 00:25:18,273 - __main__ - WARNING - Market is closed or it's a holiday
+2025-05-07 00:25:18,273 - __main__ - INFO - Fetching data for NIMB
+2025-05-07 00:25:18,273 - data_ingestion - INFO - Processing stock data for NIMB
+2025-05-07 00:25:18,275 - data_ingestion - INFO - Loaded stock cache from stock_cache.pkl
+2025-05-07 00:25:18,275 - data_ingestion - INFO - Using cached stock data for NIMB
+2025-05-07 00:25:18,275 - data_ingestion - INFO - Fetching news data for NIMB
+2025-05-07 00:25:18,277 - data_ingestion - INFO - Loaded news cache from news_cache.pkl
+2025-05-07 00:25:18,278 - data_ingestion - INFO - Using cached news data for NIMB
+2025-05-07 00:25:18,280 - __main__ - INFO - Processing data for NIMB
+2025-05-07 00:25:18,280 - dataprocessing - ERROR - News data missing required columns
+2025-05-07 00:25:18,280 - dataprocessing - ERROR - Invalid news data for sentiment analysis
+2025-05-07 00:25:18,280 - __main__ - INFO - Generating predictions for NIMB
+2025-05-07 00:25:18,362 - __main__ - ERROR - Error preparing dashboard data: integer division or modulo by zero
+2025-05-07 00:25:18,362 - werkzeug - INFO - 127.0.0.1 - - [07/May/2025 00:25:18] "[35m[1mGET / HTTP/1.1[0m" 503 -
+2025-05-07 00:28:16,739 - werkzeug - INFO -  * Detected change in 'C:\\Users\\hp\\Desktop\\sentiment\\dashboard.py', reloading
+2025-05-07 00:28:17,251 - werkzeug - INFO -  * Restarting with stat
+2025-05-07 00:28:19,720 - werkzeug - WARNING -  * Debugger is active!
+2025-05-07 00:28:19,720 - werkzeug - INFO -  * Debugger PIN: 602-161-624
+2025-05-07 00:28:31,348 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-07 00:28:31,350 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-07 00:28:31,351 - werkzeug - INFO -  * Restarting with stat
+2025-05-07 00:28:33,708 - werkzeug - WARNING -  * Debugger is active!
+2025-05-07 00:28:33,708 - werkzeug - INFO -  * Debugger PIN: 602-161-624
+2025-05-07 00:28:44,736 - __main__ - WARNING - Market is closed or it's a holiday
+2025-05-07 00:28:44,739 - __main__ - INFO - Fetching data for NIMB
+2025-05-07 00:28:44,739 - data_ingestion - INFO - Processing stock data for NIMB
+2025-05-07 00:28:44,740 - data_ingestion - INFO - Loaded stock cache from stock_cache.pkl
+2025-05-07 00:28:44,740 - data_ingestion - INFO - Using cached stock data for NIMB
+2025-05-07 00:28:44,740 - data_ingestion - INFO - Fetching news data for NIMB
+2025-05-07 00:28:44,740 - data_ingestion - INFO - Loaded news cache from news_cache.pkl
+2025-05-07 00:28:44,740 - data_ingestion - INFO - Using cached news data for NIMB
+2025-05-07 00:28:44,743 - __main__ - INFO - Processing data for NIMB
+2025-05-07 00:28:44,743 - dataprocessing - ERROR - News data missing required columns
+2025-05-07 00:28:44,743 - dataprocessing - ERROR - Invalid news data for sentiment analysis
+2025-05-07 00:28:44,743 - __main__ - INFO - Generating predictions for NIMB
+2025-05-07 00:28:44,848 - __main__ - ERROR - Error preparing dashboard data: integer division or modulo by zero
+2025-05-07 00:28:44,854 - werkzeug - INFO - 127.0.0.1 - - [07/May/2025 00:28:44] "[35m[1mGET / HTTP/1.1[0m" 503 -
+2025-05-07 00:28:45,817 - __main__ - WARNING - Market is closed or it's a holiday
+2025-05-07 00:28:45,817 - __main__ - INFO - Fetching data for NIMB
+2025-05-07 00:28:45,821 - data_ingestion - INFO - Processing stock data for NIMB
+2025-05-07 00:28:45,822 - data_ingestion - INFO - Loaded stock cache from stock_cache.pkl
+2025-05-07 00:28:45,823 - data_ingestion - INFO - Using cached stock data for NIMB
+2025-05-07 00:28:45,823 - data_ingestion - INFO - Fetching news data for NIMB
+2025-05-07 00:28:45,823 - data_ingestion - INFO - Loaded news cache from news_cache.pkl
+2025-05-07 00:28:45,823 - data_ingestion - INFO - Using cached news data for NIMB
+2025-05-07 00:28:45,823 - __main__ - INFO - Processing data for NIMB
+2025-05-07 00:28:45,823 - dataprocessing - ERROR - News data missing required columns
+2025-05-07 00:28:45,823 - dataprocessing - ERROR - Invalid news data for sentiment analysis
+2025-05-07 00:28:45,826 - __main__ - INFO - Generating predictions for NIMB
+2025-05-07 00:28:45,923 - __main__ - ERROR - Error preparing dashboard data: integer division or modulo by zero
+2025-05-07 00:28:45,926 - werkzeug - INFO - 127.0.0.1 - - [07/May/2025 00:28:45] "[35m[1mGET / HTTP/1.1[0m" 503 -
+2025-05-07 00:29:28,212 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-07 00:29:28,212 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-07 00:29:28,229 - werkzeug - INFO -  * Restarting with stat
+2025-05-07 00:29:30,595 - werkzeug - WARNING -  * Debugger is active!
+2025-05-07 00:29:30,599 - werkzeug - INFO -  * Debugger PIN: 602-161-624
+2025-05-07 00:29:36,797 - __main__ - INFO - Market open check: False (Time: 00:29:36.797957, Day: 2)
+2025-05-07 00:29:36,797 - __main__ - WARNING - Market is closed or it's a holiday
+2025-05-07 00:29:36,798 - __main__ - INFO - No cached data available, attempting to fetch data
+2025-05-07 00:29:36,798 - __main__ - INFO - Fetching data for NIMB
+2025-05-07 00:29:36,798 - data_ingestion - INFO - Processing stock data for NIMB
+2025-05-07 00:29:36,799 - data_ingestion - INFO - Loaded stock cache from stock_cache.pkl
+2025-05-07 00:29:36,799 - data_ingestion - INFO - Using cached stock data for NIMB
+2025-05-07 00:29:36,799 - data_ingestion - INFO - Fetching news data for NIMB
+2025-05-07 00:29:36,801 - data_ingestion - INFO - Loaded news cache from news_cache.pkl
+2025-05-07 00:29:36,801 - data_ingestion - INFO - Using cached news data for NIMB
+2025-05-07 00:29:36,801 - __main__ - INFO - Processing data for NIMB
+2025-05-07 00:29:36,803 - dataprocessing - ERROR - News data missing required columns
+2025-05-07 00:29:36,803 - dataprocessing - ERROR - Invalid news data for sentiment analysis
+2025-05-07 00:29:36,804 - __main__ - INFO - Generating predictions for NIMB
+2025-05-07 00:29:36,896 - __main__ - INFO - Dashboard data prepared with 23 historical and 3 predicted points
+2025-05-07 00:29:36,930 - werkzeug - INFO - 127.0.0.1 - - [07/May/2025 00:29:36] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2025-05-07 00:29:37,017 - werkzeug - INFO - 127.0.0.1 - - [07/May/2025 00:29:37] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2025-05-07 00:29:37,017 - werkzeug - INFO - 127.0.0.1 - - [07/May/2025 00:29:37] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2025-05-07 00:29:37,049 - werkzeug - INFO - 127.0.0.1 - - [07/May/2025 00:29:37] "GET /?__debugger__=yes&cmd=resource&f=console.png&s=XjpUysi3Ib1LUIFu0qtD HTTP/1.1" 200 -
+2025-05-07 00:29:37,056 - werkzeug - INFO - 127.0.0.1 - - [07/May/2025 00:29:37] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2025-05-07 00:33:18,947 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-07 00:33:18,949 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-07 00:33:18,952 - werkzeug - INFO -  * Restarting with stat
+2025-05-07 00:33:22,186 - werkzeug - WARNING -  * Debugger is active!
+2025-05-07 00:33:22,194 - werkzeug - INFO -  * Debugger PIN: 602-161-624
+2025-05-07 00:33:28,145 - __main__ - INFO - Market open check: False (Time: 00:33:28.145170, Day: 2)
+2025-05-07 00:33:28,145 - __main__ - WARNING - Market is closed or it's a holiday
+2025-05-07 00:33:28,145 - __main__ - INFO - No cached data available, attempting to fetch data
+2025-05-07 00:33:28,148 - __main__ - INFO - Fetching data for NIMB
+2025-05-07 00:33:28,148 - data_ingestion - INFO - Processing stock data for NIMB
+2025-05-07 00:33:28,149 - data_ingestion - INFO - Loaded stock cache from stock_cache.pkl
+2025-05-07 00:33:28,150 - data_ingestion - INFO - Using cached stock data for NIMB
+2025-05-07 00:33:28,150 - data_ingestion - INFO - Fetching news data for NIMB
+2025-05-07 00:33:28,150 - data_ingestion - INFO - Loaded news cache from news_cache.pkl
+2025-05-07 00:33:28,150 - data_ingestion - INFO - Using cached news data for NIMB
+2025-05-07 00:33:28,150 - __main__ - INFO - Processing data for NIMB
+2025-05-07 00:33:28,150 - dataprocessing - ERROR - News data missing required columns
+2025-05-07 00:33:28,150 - dataprocessing - ERROR - Invalid news data for sentiment analysis
+2025-05-07 00:33:28,150 - __main__ - INFO - Generating predictions for NIMB
+2025-05-07 00:33:28,268 - __main__ - INFO - Dashboard data prepared with 23 historical and 3 predicted points
+2025-05-07 00:33:28,282 - __main__ - INFO - Market open check: False (Time: 00:33:28.282501, Day: 2)
+2025-05-07 00:33:28,365 - werkzeug - INFO - 127.0.0.1 - - [07/May/2025 00:33:28] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2025-05-07 00:33:28,498 - werkzeug - INFO - 127.0.0.1 - - [07/May/2025 00:33:28] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2025-05-07 00:33:28,500 - werkzeug - INFO - 127.0.0.1 - - [07/May/2025 00:33:28] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2025-05-07 00:33:28,512 - werkzeug - INFO - 127.0.0.1 - - [07/May/2025 00:33:28] "GET /?__debugger__=yes&cmd=resource&f=console.png&s=QMCT3mUS5ribkaIfVNYB HTTP/1.1" 200 -
+2025-05-07 00:33:28,525 - werkzeug - INFO - 127.0.0.1 - - [07/May/2025 00:33:28] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2025-05-07 00:33:29,513 - __main__ - INFO - Market open check: False (Time: 00:33:29.513988, Day: 2)
+2025-05-07 00:33:29,513 - __main__ - WARNING - Market is closed or it's a holiday
+2025-05-07 00:33:29,513 - __main__ - INFO - Returning cached data
+2025-05-07 00:33:29,521 - __main__ - INFO - Market open check: False (Time: 00:33:29.521712, Day: 2)
+2025-05-07 00:33:29,541 - werkzeug - INFO - 127.0.0.1 - - [07/May/2025 00:33:29] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2025-05-07 00:33:29,560 - werkzeug - INFO - 127.0.0.1 - - [07/May/2025 00:33:29] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2025-05-07 00:33:29,567 - werkzeug - INFO - 127.0.0.1 - - [07/May/2025 00:33:29] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2025-05-07 00:33:29,575 - werkzeug - INFO - 127.0.0.1 - - [07/May/2025 00:33:29] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png&s=QMCT3mUS5ribkaIfVNYB HTTP/1.1[0m" 304 -
+2025-05-07 00:33:29,587 - werkzeug - INFO - 127.0.0.1 - - [07/May/2025 00:33:29] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2025-05-07 00:33:30,429 - __main__ - INFO - Market open check: False (Time: 00:33:30.429388, Day: 2)
+2025-05-07 00:33:30,429 - __main__ - WARNING - Market is closed or it's a holiday
+2025-05-07 00:33:30,430 - __main__ - INFO - Returning cached data
+2025-05-07 00:33:30,439 - __main__ - INFO - Market open check: False (Time: 00:33:30.439092, Day: 2)
+2025-05-07 00:33:30,473 - werkzeug - INFO - 127.0.0.1 - - [07/May/2025 00:33:30] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2025-05-07 00:33:30,510 - werkzeug - INFO - 127.0.0.1 - - [07/May/2025 00:33:30] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2025-05-07 00:33:30,510 - werkzeug - INFO - 127.0.0.1 - - [07/May/2025 00:33:30] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2025-05-07 00:33:30,532 - werkzeug - INFO - 127.0.0.1 - - [07/May/2025 00:33:30] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png&s=QMCT3mUS5ribkaIfVNYB HTTP/1.1[0m" 304 -
+2025-05-07 00:33:30,553 - werkzeug - INFO - 127.0.0.1 - - [07/May/2025 00:33:30] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2025-05-07 00:33:30,661 - __main__ - INFO - Market open check: False (Time: 00:33:30.661809, Day: 2)
+2025-05-07 00:33:30,662 - __main__ - WARNING - Market is closed or it's a holiday
+2025-05-07 00:33:30,662 - __main__ - INFO - Returning cached data
+2025-05-07 00:33:30,670 - __main__ - INFO - Market open check: False (Time: 00:33:30.670301, Day: 2)
+2025-05-07 00:33:30,702 - werkzeug - INFO - 127.0.0.1 - - [07/May/2025 00:33:30] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2025-05-07 00:33:30,729 - werkzeug - INFO - 127.0.0.1 - - [07/May/2025 00:33:30] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2025-05-07 00:33:30,738 - werkzeug - INFO - 127.0.0.1 - - [07/May/2025 00:33:30] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2025-05-07 00:33:30,752 - werkzeug - INFO - 127.0.0.1 - - [07/May/2025 00:33:30] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png&s=QMCT3mUS5ribkaIfVNYB HTTP/1.1[0m" 304 -
+2025-05-07 00:33:30,773 - werkzeug - INFO - 127.0.0.1 - - [07/May/2025 00:33:30] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2025-05-07 00:33:30,890 - __main__ - INFO - Market open check: False (Time: 00:33:30.890708, Day: 2)
+2025-05-07 00:33:30,890 - __main__ - WARNING - Market is closed or it's a holiday
+2025-05-07 00:33:30,891 - __main__ - INFO - Returning cached data
+2025-05-07 00:33:30,902 - __main__ - INFO - Market open check: False (Time: 00:33:30.902147, Day: 2)
+2025-05-07 00:33:30,932 - werkzeug - INFO - 127.0.0.1 - - [07/May/2025 00:33:30] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2025-05-07 00:33:30,964 - werkzeug - INFO - 127.0.0.1 - - [07/May/2025 00:33:30] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2025-05-07 00:33:30,969 - werkzeug - INFO - 127.0.0.1 - - [07/May/2025 00:33:30] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2025-05-07 00:33:30,990 - werkzeug - INFO - 127.0.0.1 - - [07/May/2025 00:33:30] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png&s=QMCT3mUS5ribkaIfVNYB HTTP/1.1[0m" 304 -
+2025-05-07 00:33:31,010 - werkzeug - INFO - 127.0.0.1 - - [07/May/2025 00:33:31] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2025-05-07 00:44:35,456 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-07 00:44:35,457 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-07 00:44:35,457 - werkzeug - INFO -  * Restarting with stat
+2025-05-07 00:44:38,506 - werkzeug - WARNING -  * Debugger is active!
+2025-05-07 00:44:38,516 - werkzeug - INFO -  * Debugger PIN: 602-161-624
+2025-05-07 00:44:48,460 - __main__ - INFO - Market open check: False (Time: 00:44:48.460856, Day: 2)
+2025-05-07 00:44:48,460 - __main__ - WARNING - Market is closed or it's a holiday
+2025-05-07 00:44:48,460 - __main__ - INFO - No cached data available, attempting to fetch data
+2025-05-07 00:44:48,460 - __main__ - INFO - Fetching data for NIMB
+2025-05-07 00:44:48,460 - data_ingestion - INFO - Processing stock data for NIMB
+2025-05-07 00:44:48,462 - data_ingestion - INFO - Loaded stock cache from stock_cache.pkl
+2025-05-07 00:44:48,463 - data_ingestion - INFO - Using cached stock data for NIMB
+2025-05-07 00:44:48,464 - data_ingestion - INFO - Fetching news data for NIMB
+2025-05-07 00:44:48,465 - data_ingestion - INFO - Loaded news cache from news_cache.pkl
+2025-05-07 00:44:48,465 - data_ingestion - INFO - Using cached news data for NIMB
+2025-05-07 00:44:48,465 - __main__ - INFO - Processing data for NIMB
+2025-05-07 00:44:48,476 - dataprocessing - ERROR - News data missing required columns
+2025-05-07 00:44:48,476 - dataprocessing - ERROR - Invalid news data for sentiment analysis
+2025-05-07 00:44:48,476 - __main__ - INFO - Generating predictions for NIMB
+2025-05-07 00:44:48,549 - __main__ - INFO - Dashboard data prepared with 23 historical and 3 predicted points
+2025-05-07 00:44:48,563 - __main__ - INFO - Market open check: False (Time: 00:44:48.563070, Day: 2)
+2025-05-07 00:44:48,604 - werkzeug - INFO - 127.0.0.1 - - [07/May/2025 00:44:48] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2025-05-07 00:44:48,725 - werkzeug - INFO - 127.0.0.1 - - [07/May/2025 00:44:48] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2025-05-07 00:44:48,729 - werkzeug - INFO - 127.0.0.1 - - [07/May/2025 00:44:48] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2025-05-07 00:44:48,759 - werkzeug - INFO - 127.0.0.1 - - [07/May/2025 00:44:48] "GET /?__debugger__=yes&cmd=resource&f=console.png&s=ao09xBCFdpDcgkxadux7 HTTP/1.1" 200 -
+2025-05-07 00:44:48,772 - werkzeug - INFO - 127.0.0.1 - - [07/May/2025 00:44:48] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2025-05-07 00:44:49,643 - __main__ - INFO - Market open check: False (Time: 00:44:49.643102, Day: 2)
+2025-05-07 00:44:49,643 - __main__ - WARNING - Market is closed or it's a holiday
+2025-05-07 00:44:49,643 - __main__ - INFO - Returning cached data
+2025-05-07 00:44:49,656 - __main__ - INFO - Market open check: False (Time: 00:44:49.656381, Day: 2)
+2025-05-07 00:44:49,683 - werkzeug - INFO - 127.0.0.1 - - [07/May/2025 00:44:49] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2025-05-07 00:44:49,717 - werkzeug - INFO - 127.0.0.1 - - [07/May/2025 00:44:49] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2025-05-07 00:44:49,717 - werkzeug - INFO - 127.0.0.1 - - [07/May/2025 00:44:49] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2025-05-07 00:44:49,733 - werkzeug - INFO - 127.0.0.1 - - [07/May/2025 00:44:49] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png&s=ao09xBCFdpDcgkxadux7 HTTP/1.1[0m" 304 -
+2025-05-07 00:44:49,748 - werkzeug - INFO - 127.0.0.1 - - [07/May/2025 00:44:49] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2025-05-07 03:09:54,772 - __main__ - INFO - Starting data ingestion pipeline
+2025-05-07 03:09:54,772 - __main__ - INFO - Generating mock NEPSE stock data for NABIL
+2025-05-07 03:09:54,793 - __main__ - INFO - Saved NEPSE stock data for NABIL to nepse_data_NABIL.csv with 90 records
+2025-05-07 03:09:54,795 - __main__ - INFO - Generating mock news data for NABIL
+2025-05-07 03:09:54,797 - __main__ - INFO - Saved news data for NABIL to news_data_NABIL.csv with 90 records
+2025-05-07 03:09:54,797 - __main__ - INFO - Generating mock NEPSE stock data for NRIC
+2025-05-07 03:09:54,810 - __main__ - INFO - Saved NEPSE stock data for NRIC to nepse_data_NRIC.csv with 90 records
+2025-05-07 03:09:54,812 - __main__ - INFO - Generating mock news data for NRIC
+2025-05-07 03:09:54,817 - __main__ - INFO - Saved news data for NRIC to news_data_NRIC.csv with 90 records
+2025-05-07 03:09:54,817 - __main__ - INFO - Generating mock NEPSE stock data for SHIVM
+2025-05-07 03:09:54,821 - __main__ - INFO - Saved NEPSE stock data for SHIVM to nepse_data_SHIVM.csv with 90 records
+2025-05-07 03:09:54,821 - __main__ - INFO - Generating mock news data for SHIVM
+2025-05-07 03:09:54,828 - __main__ - INFO - Saved news data for SHIVM to news_data_SHIVM.csv with 90 records
+2025-05-07 03:09:54,828 - __main__ - INFO - Generating mock NEPSE stock data for HBL
+2025-05-07 03:09:54,834 - __main__ - INFO - Saved NEPSE stock data for HBL to nepse_data_HBL.csv with 90 records
+2025-05-07 03:09:54,836 - __main__ - INFO - Generating mock news data for HBL
+2025-05-07 03:09:54,837 - __main__ - INFO - Saved news data for HBL to news_data_HBL.csv with 90 records
+2025-05-07 03:09:54,837 - __main__ - INFO - Generating mock NEPSE stock data for EBL
+2025-05-07 03:09:54,848 - __main__ - INFO - Saved NEPSE stock data for EBL to nepse_data_EBL.csv with 90 records
+2025-05-07 03:09:54,848 - __main__ - INFO - Generating mock news data for EBL
+2025-05-07 03:09:54,852 - __main__ - INFO - Saved news data for EBL to news_data_EBL.csv with 90 records
+2025-05-07 03:09:54,854 - __main__ - INFO - Generating mock NEPSE stock data for SCB
+2025-05-07 03:09:54,861 - __main__ - INFO - Saved NEPSE stock data for SCB to nepse_data_SCB.csv with 90 records
+2025-05-07 03:09:54,861 - __main__ - INFO - Generating mock news data for SCB
+2025-05-07 03:09:54,867 - __main__ - INFO - Saved news data for SCB to news_data_SCB.csv with 90 records
+2025-05-07 03:09:54,867 - __main__ - INFO - Generating mock NEPSE stock data for KBL
+2025-05-07 03:09:54,871 - __main__ - INFO - Saved NEPSE stock data for KBL to nepse_data_KBL.csv with 90 records
+2025-05-07 03:09:54,871 - __main__ - INFO - Generating mock news data for KBL
+2025-05-07 03:09:54,879 - __main__ - INFO - Saved news data for KBL to news_data_KBL.csv with 90 records
+2025-05-07 03:09:54,879 - __main__ - INFO - Generating mock NEPSE stock data for NMB
+2025-05-07 03:09:54,889 - __main__ - INFO - Saved NEPSE stock data for NMB to nepse_data_NMB.csv with 90 records
+2025-05-07 03:09:54,891 - __main__ - INFO - Generating mock news data for NMB
+2025-05-07 03:09:54,895 - __main__ - INFO - Saved news data for NMB to news_data_NMB.csv with 90 records
+2025-05-07 03:09:54,900 - __main__ - INFO - Generating mock NEPSE stock data for GBIME
+2025-05-07 03:09:54,905 - __main__ - INFO - Saved NEPSE stock data for GBIME to nepse_data_GBIME.csv with 90 records
+2025-05-07 03:09:54,905 - __main__ - INFO - Generating mock news data for GBIME
+2025-05-07 03:09:54,909 - __main__ - INFO - Saved news data for GBIME to news_data_GBIME.csv with 90 records
+2025-05-07 03:09:54,909 - __main__ - INFO - Generating mock NEPSE stock data for NICA
+2025-05-07 03:09:54,926 - __main__ - INFO - Saved NEPSE stock data for NICA to nepse_data_NICA.csv with 90 records
+2025-05-07 03:09:54,926 - __main__ - INFO - Generating mock news data for NICA
+2025-05-07 03:09:54,926 - __main__ - INFO - Saved news data for NICA to news_data_NICA.csv with 90 records
+2025-05-07 03:09:54,926 - __main__ - INFO - Generating mock NEPSE stock data for PRVU
+2025-05-07 03:09:54,937 - __main__ - INFO - Saved NEPSE stock data for PRVU to nepse_data_PRVU.csv with 90 records
+2025-05-07 03:09:54,937 - __main__ - INFO - Generating mock news data for PRVU
+2025-05-07 03:09:54,943 - __main__ - INFO - Saved news data for PRVU to news_data_PRVU.csv with 90 records
+2025-05-07 03:09:54,943 - __main__ - INFO - Generating mock NEPSE stock data for SBI
+2025-05-07 03:09:54,952 - __main__ - INFO - Saved NEPSE stock data for SBI to nepse_data_SBI.csv with 90 records
+2025-05-07 03:09:54,953 - __main__ - INFO - Generating mock news data for SBI
+2025-05-07 03:09:54,960 - __main__ - INFO - Saved news data for SBI to news_data_SBI.csv with 90 records
+2025-05-07 03:09:54,960 - __main__ - INFO - Generating mock NEPSE stock data for ADBL
+2025-05-07 03:09:54,966 - __main__ - INFO - Saved NEPSE stock data for ADBL to nepse_data_ADBL.csv with 90 records
+2025-05-07 03:09:54,966 - __main__ - INFO - Generating mock news data for ADBL
+2025-05-07 03:09:54,968 - __main__ - INFO - Saved news data for ADBL to news_data_ADBL.csv with 90 records
+2025-05-07 03:09:54,968 - __main__ - INFO - Data ingestion pipeline completed
+2025-05-07 13:07:21,310 - __main__ - INFO - Starting data ingestion pipeline
+2025-05-07 13:07:21,310 - __main__ - INFO - Generating mock NEPSE stock data for NABIL
+2025-05-07 13:07:21,339 - __main__ - INFO - Saved NEPSE stock data for NABIL to nepse_data_NABIL.csv with 90 records
+2025-05-07 13:07:21,339 - __main__ - INFO - Generating mock news data for NABIL
+2025-05-07 13:07:21,346 - __main__ - INFO - Saved news data for NABIL to news_data_NABIL.csv with 90 records
+2025-05-07 13:07:21,346 - __main__ - INFO - Generating mock NEPSE stock data for NRIC
+2025-05-07 13:07:21,356 - __main__ - INFO - Saved NEPSE stock data for NRIC to nepse_data_NRIC.csv with 90 records
+2025-05-07 13:07:21,356 - __main__ - INFO - Generating mock news data for NRIC
+2025-05-07 13:07:21,362 - __main__ - INFO - Saved news data for NRIC to news_data_NRIC.csv with 90 records
+2025-05-07 13:07:21,362 - __main__ - INFO - Generating mock NEPSE stock data for SHIVM
+2025-05-07 13:07:21,370 - __main__ - INFO - Saved NEPSE stock data for SHIVM to nepse_data_SHIVM.csv with 90 records
+2025-05-07 13:07:21,371 - __main__ - INFO - Generating mock news data for SHIVM
+2025-05-07 13:07:21,375 - __main__ - INFO - Saved news data for SHIVM to news_data_SHIVM.csv with 90 records
+2025-05-07 13:07:21,375 - __main__ - INFO - Generating mock NEPSE stock data for HBL
+2025-05-07 13:07:21,385 - __main__ - INFO - Saved NEPSE stock data for HBL to nepse_data_HBL.csv with 90 records
+2025-05-07 13:07:21,387 - __main__ - INFO - Generating mock news data for HBL
+2025-05-07 13:07:21,392 - __main__ - INFO - Saved news data for HBL to news_data_HBL.csv with 90 records
+2025-05-07 13:07:21,392 - __main__ - INFO - Generating mock NEPSE stock data for EBL
+2025-05-07 13:07:21,399 - __main__ - INFO - Saved NEPSE stock data for EBL to nepse_data_EBL.csv with 90 records
+2025-05-07 13:07:21,399 - __main__ - INFO - Generating mock news data for EBL
+2025-05-07 13:07:21,399 - __main__ - INFO - Saved news data for EBL to news_data_EBL.csv with 90 records
+2025-05-07 13:07:21,408 - __main__ - INFO - Generating mock NEPSE stock data for SCB
+2025-05-07 13:07:21,418 - __main__ - INFO - Saved NEPSE stock data for SCB to nepse_data_SCB.csv with 90 records
+2025-05-07 13:07:21,418 - __main__ - INFO - Generating mock news data for SCB
+2025-05-07 13:07:21,420 - __main__ - INFO - Saved news data for SCB to news_data_SCB.csv with 90 records
+2025-05-07 13:07:21,420 - __main__ - INFO - Generating mock NEPSE stock data for KBL
+2025-05-07 13:07:21,432 - __main__ - INFO - Saved NEPSE stock data for KBL to nepse_data_KBL.csv with 90 records
+2025-05-07 13:07:21,432 - __main__ - INFO - Generating mock news data for KBL
+2025-05-07 13:07:21,435 - __main__ - INFO - Saved news data for KBL to news_data_KBL.csv with 90 records
+2025-05-07 13:07:21,435 - __main__ - INFO - Generating mock NEPSE stock data for NMB
+2025-05-07 13:07:21,437 - __main__ - INFO - Saved NEPSE stock data for NMB to nepse_data_NMB.csv with 90 records
+2025-05-07 13:07:21,437 - __main__ - INFO - Generating mock news data for NMB
+2025-05-07 13:07:21,445 - __main__ - INFO - Saved news data for NMB to news_data_NMB.csv with 90 records
+2025-05-07 13:07:21,445 - __main__ - INFO - Generating mock NEPSE stock data for GBIME
+2025-05-07 13:07:21,458 - __main__ - INFO - Saved NEPSE stock data for GBIME to nepse_data_GBIME.csv with 90 records
+2025-05-07 13:07:21,458 - __main__ - INFO - Generating mock news data for GBIME
+2025-05-07 13:07:21,458 - __main__ - INFO - Saved news data for GBIME to news_data_GBIME.csv with 90 records
+2025-05-07 13:07:21,458 - __main__ - INFO - Generating mock NEPSE stock data for NICA
+2025-05-07 13:07:21,470 - __main__ - INFO - Saved NEPSE stock data for NICA to nepse_data_NICA.csv with 90 records
+2025-05-07 13:07:21,470 - __main__ - INFO - Generating mock news data for NICA
+2025-05-07 13:07:21,475 - __main__ - INFO - Saved news data for NICA to news_data_NICA.csv with 90 records
+2025-05-07 13:07:21,475 - __main__ - INFO - Generating mock NEPSE stock data for PRVU
+2025-05-07 13:07:21,483 - __main__ - INFO - Saved NEPSE stock data for PRVU to nepse_data_PRVU.csv with 90 records
+2025-05-07 13:07:21,483 - __main__ - INFO - Generating mock news data for PRVU
+2025-05-07 13:07:21,488 - __main__ - INFO - Saved news data for PRVU to news_data_PRVU.csv with 90 records
+2025-05-07 13:07:21,488 - __main__ - INFO - Generating mock NEPSE stock data for SBI
+2025-05-07 13:07:21,498 - __main__ - INFO - Saved NEPSE stock data for SBI to nepse_data_SBI.csv with 90 records
+2025-05-07 13:07:21,499 - __main__ - INFO - Generating mock news data for SBI
+2025-05-07 13:07:21,500 - __main__ - INFO - Saved news data for SBI to news_data_SBI.csv with 90 records
+2025-05-07 13:07:21,500 - __main__ - INFO - Generating mock NEPSE stock data for ADBL
+2025-05-07 13:07:21,506 - __main__ - INFO - Saved NEPSE stock data for ADBL to nepse_data_ADBL.csv with 90 records
+2025-05-07 13:07:21,506 - __main__ - INFO - Generating mock news data for ADBL
+2025-05-07 13:07:21,515 - __main__ - INFO - Saved news data for ADBL to news_data_ADBL.csv with 90 records
+2025-05-07 13:07:21,515 - __main__ - INFO - Data ingestion pipeline completed
+2025-05-09 07:53:37,936 - __main__ - INFO - Starting data ingestion pipeline
+2025-05-09 07:53:37,936 - __main__ - INFO - Generating mock NEPSE stock data for NABIL
+2025-05-09 07:53:37,957 - __main__ - INFO - Saved NEPSE stock data for NABIL to nepse_data_NABIL.csv with 90 records
+2025-05-09 07:53:37,957 - __main__ - INFO - Generating mock news data for NABIL
+2025-05-09 07:53:37,961 - __main__ - INFO - Saved news data for NABIL to news_data_NABIL.csv with 90 records
+2025-05-09 07:53:37,961 - __main__ - INFO - Generating mock NEPSE stock data for NRIC
+2025-05-09 07:53:37,964 - __main__ - INFO - Saved NEPSE stock data for NRIC to nepse_data_NRIC.csv with 90 records
+2025-05-09 07:53:37,964 - __main__ - INFO - Generating mock news data for NRIC
+2025-05-09 07:53:37,967 - __main__ - INFO - Saved news data for NRIC to news_data_NRIC.csv with 90 records
+2025-05-09 07:53:37,967 - __main__ - INFO - Generating mock NEPSE stock data for SHIVM
+2025-05-09 07:53:37,970 - __main__ - INFO - Saved NEPSE stock data for SHIVM to nepse_data_SHIVM.csv with 90 records
+2025-05-09 07:53:37,970 - __main__ - INFO - Generating mock news data for SHIVM
+2025-05-09 07:53:37,970 - __main__ - INFO - Saved news data for SHIVM to news_data_SHIVM.csv with 90 records
+2025-05-09 07:53:37,970 - __main__ - INFO - Generating mock NEPSE stock data for HBL
+2025-05-09 07:53:37,976 - __main__ - INFO - Saved NEPSE stock data for HBL to nepse_data_HBL.csv with 90 records
+2025-05-09 07:53:37,976 - __main__ - INFO - Generating mock news data for HBL
+2025-05-09 07:53:37,976 - __main__ - INFO - Saved news data for HBL to news_data_HBL.csv with 90 records
+2025-05-09 07:53:37,976 - __main__ - INFO - Generating mock NEPSE stock data for EBL
+2025-05-09 07:53:37,982 - __main__ - INFO - Saved NEPSE stock data for EBL to nepse_data_EBL.csv with 90 records
+2025-05-09 07:53:37,982 - __main__ - INFO - Generating mock news data for EBL
+2025-05-09 07:53:37,984 - __main__ - INFO - Saved news data for EBL to news_data_EBL.csv with 90 records
+2025-05-09 07:53:37,984 - __main__ - INFO - Generating mock NEPSE stock data for SCB
+2025-05-09 07:53:37,987 - __main__ - INFO - Saved NEPSE stock data for SCB to nepse_data_SCB.csv with 90 records
+2025-05-09 07:53:37,987 - __main__ - INFO - Generating mock news data for SCB
+2025-05-09 07:53:37,987 - __main__ - INFO - Saved news data for SCB to news_data_SCB.csv with 90 records
+2025-05-09 07:53:37,987 - __main__ - INFO - Generating mock NEPSE stock data for KBL
+2025-05-09 07:53:37,996 - __main__ - INFO - Saved NEPSE stock data for KBL to nepse_data_KBL.csv with 90 records
+2025-05-09 07:53:37,996 - __main__ - INFO - Generating mock news data for KBL
+2025-05-09 07:53:37,998 - __main__ - INFO - Saved news data for KBL to news_data_KBL.csv with 90 records
+2025-05-09 07:53:37,998 - __main__ - INFO - Generating mock NEPSE stock data for NMB
+2025-05-09 07:53:38,001 - __main__ - INFO - Saved NEPSE stock data for NMB to nepse_data_NMB.csv with 90 records
+2025-05-09 07:53:38,001 - __main__ - INFO - Generating mock news data for NMB
+2025-05-09 07:53:38,001 - __main__ - INFO - Saved news data for NMB to news_data_NMB.csv with 90 records
+2025-05-09 07:53:38,001 - __main__ - INFO - Generating mock NEPSE stock data for GBIME
+2025-05-09 07:53:38,010 - __main__ - INFO - Saved NEPSE stock data for GBIME to nepse_data_GBIME.csv with 90 records
+2025-05-09 07:53:38,010 - __main__ - INFO - Generating mock news data for GBIME
+2025-05-09 07:53:38,010 - __main__ - INFO - Saved news data for GBIME to news_data_GBIME.csv with 90 records
+2025-05-09 07:53:38,010 - __main__ - INFO - Generating mock NEPSE stock data for NICA
+2025-05-09 07:53:38,017 - __main__ - INFO - Saved NEPSE stock data for NICA to nepse_data_NICA.csv with 90 records
+2025-05-09 07:53:38,017 - __main__ - INFO - Generating mock news data for NICA
+2025-05-09 07:53:38,017 - __main__ - INFO - Saved news data for NICA to news_data_NICA.csv with 90 records
+2025-05-09 07:53:38,017 - __main__ - INFO - Generating mock NEPSE stock data for PRVU
+2025-05-09 07:53:38,026 - __main__ - INFO - Saved NEPSE stock data for PRVU to nepse_data_PRVU.csv with 90 records
+2025-05-09 07:53:38,026 - __main__ - INFO - Generating mock news data for PRVU
+2025-05-09 07:53:38,032 - __main__ - INFO - Saved news data for PRVU to news_data_PRVU.csv with 90 records
+2025-05-09 07:53:38,032 - __main__ - INFO - Generating mock NEPSE stock data for SBI
+2025-05-09 07:53:38,037 - __main__ - INFO - Saved NEPSE stock data for SBI to nepse_data_SBI.csv with 90 records
+2025-05-09 07:53:38,037 - __main__ - INFO - Generating mock news data for SBI
+2025-05-09 07:53:38,037 - __main__ - INFO - Saved news data for SBI to news_data_SBI.csv with 90 records
+2025-05-09 07:53:38,037 - __main__ - INFO - Generating mock NEPSE stock data for ADBL
+2025-05-09 07:53:38,044 - __main__ - INFO - Saved NEPSE stock data for ADBL to nepse_data_ADBL.csv with 90 records
+2025-05-09 07:53:38,044 - __main__ - INFO - Generating mock news data for ADBL
+2025-05-09 07:53:38,048 - __main__ - INFO - Saved news data for ADBL to news_data_ADBL.csv with 90 records
+2025-05-09 07:53:38,048 - __main__ - INFO - Data ingestion pipeline completed
+2025-05-09 09:17:05,240 - __main__ - INFO - Starting data ingestion pipeline
+2025-05-09 09:17:05,240 - __main__ - INFO - Generating mock NEPSE stock data for NABIL
+2025-05-09 09:17:05,257 - __main__ - INFO - Saved NEPSE stock data for NABIL to nepse_data_NABIL.csv with 90 records
+2025-05-09 09:17:05,257 - __main__ - INFO - Generating mock news data for NABIL
+2025-05-09 09:17:05,268 - __main__ - INFO - Saved news data for NABIL to news_data_NABIL.csv with 90 records
+2025-05-09 09:17:05,268 - __main__ - INFO - Generating mock NEPSE stock data for NRIC
+2025-05-09 09:17:05,276 - __main__ - INFO - Saved NEPSE stock data for NRIC to nepse_data_NRIC.csv with 90 records
+2025-05-09 09:17:05,276 - __main__ - INFO - Generating mock news data for NRIC
+2025-05-09 09:17:05,276 - __main__ - INFO - Saved news data for NRIC to news_data_NRIC.csv with 90 records
+2025-05-09 09:17:05,276 - __main__ - INFO - Generating mock NEPSE stock data for SHIVM
+2025-05-09 09:17:05,285 - __main__ - INFO - Saved NEPSE stock data for SHIVM to nepse_data_SHIVM.csv with 90 records
+2025-05-09 09:17:05,285 - __main__ - INFO - Generating mock news data for SHIVM
+2025-05-09 09:17:05,290 - __main__ - INFO - Saved news data for SHIVM to news_data_SHIVM.csv with 90 records
+2025-05-09 09:17:05,290 - __main__ - INFO - Generating mock NEPSE stock data for HBL
+2025-05-09 09:17:05,298 - __main__ - INFO - Saved NEPSE stock data for HBL to nepse_data_HBL.csv with 90 records
+2025-05-09 09:17:05,298 - __main__ - INFO - Generating mock news data for HBL
+2025-05-09 09:17:05,304 - __main__ - INFO - Saved news data for HBL to news_data_HBL.csv with 90 records
+2025-05-09 09:17:05,304 - __main__ - INFO - Generating mock NEPSE stock data for EBL
+2025-05-09 09:17:05,312 - __main__ - INFO - Saved NEPSE stock data for EBL to nepse_data_EBL.csv with 90 records
+2025-05-09 09:17:05,312 - __main__ - INFO - Generating mock news data for EBL
+2025-05-09 09:17:05,318 - __main__ - INFO - Saved news data for EBL to news_data_EBL.csv with 90 records
+2025-05-09 09:17:05,318 - __main__ - INFO - Generating mock NEPSE stock data for SCB
+2025-05-09 09:17:05,326 - __main__ - INFO - Saved NEPSE stock data for SCB to nepse_data_SCB.csv with 90 records
+2025-05-09 09:17:05,326 - __main__ - INFO - Generating mock news data for SCB
+2025-05-09 09:17:05,331 - __main__ - INFO - Saved news data for SCB to news_data_SCB.csv with 90 records
+2025-05-09 09:17:05,331 - __main__ - INFO - Generating mock NEPSE stock data for KBL
+2025-05-09 09:17:05,339 - __main__ - INFO - Saved NEPSE stock data for KBL to nepse_data_KBL.csv with 90 records
+2025-05-09 09:17:05,340 - __main__ - INFO - Generating mock news data for KBL
+2025-05-09 09:17:05,344 - __main__ - INFO - Saved news data for KBL to news_data_KBL.csv with 90 records
+2025-05-09 09:17:05,344 - __main__ - INFO - Generating mock NEPSE stock data for NMB
+2025-05-09 09:17:05,349 - __main__ - INFO - Saved NEPSE stock data for NMB to nepse_data_NMB.csv with 90 records
+2025-05-09 09:17:05,349 - __main__ - INFO - Generating mock news data for NMB
+2025-05-09 09:17:05,356 - __main__ - INFO - Saved news data for NMB to news_data_NMB.csv with 90 records
+2025-05-09 09:17:05,356 - __main__ - INFO - Generating mock NEPSE stock data for GBIME
+2025-05-09 09:17:05,364 - __main__ - INFO - Saved NEPSE stock data for GBIME to nepse_data_GBIME.csv with 90 records
+2025-05-09 09:17:05,364 - __main__ - INFO - Generating mock news data for GBIME
+2025-05-09 09:17:05,372 - __main__ - INFO - Saved news data for GBIME to news_data_GBIME.csv with 90 records
+2025-05-09 09:17:05,374 - __main__ - INFO - Generating mock NEPSE stock data for NICA
+2025-05-09 09:17:05,382 - __main__ - INFO - Saved NEPSE stock data for NICA to nepse_data_NICA.csv with 90 records
+2025-05-09 09:17:05,382 - __main__ - INFO - Generating mock news data for NICA
+2025-05-09 09:17:05,386 - __main__ - INFO - Saved news data for NICA to news_data_NICA.csv with 90 records
+2025-05-09 09:17:05,386 - __main__ - INFO - Generating mock NEPSE stock data for PRVU
+2025-05-09 09:17:05,396 - __main__ - INFO - Saved NEPSE stock data for PRVU to nepse_data_PRVU.csv with 90 records
+2025-05-09 09:17:05,396 - __main__ - INFO - Generating mock news data for PRVU
+2025-05-09 09:17:05,399 - __main__ - INFO - Saved news data for PRVU to news_data_PRVU.csv with 90 records
+2025-05-09 09:17:05,401 - __main__ - INFO - Generating mock NEPSE stock data for SBI
+2025-05-09 09:17:05,406 - __main__ - INFO - Saved NEPSE stock data for SBI to nepse_data_SBI.csv with 90 records
+2025-05-09 09:17:05,406 - __main__ - INFO - Generating mock news data for SBI
+2025-05-09 09:17:05,413 - __main__ - INFO - Saved news data for SBI to news_data_SBI.csv with 90 records
+2025-05-09 09:17:05,413 - __main__ - INFO - Generating mock NEPSE stock data for ADBL
+2025-05-09 09:17:05,419 - __main__ - INFO - Saved NEPSE stock data for ADBL to nepse_data_ADBL.csv with 90 records
+2025-05-09 09:17:05,419 - __main__ - INFO - Generating mock news data for ADBL
+2025-05-09 09:17:05,426 - __main__ - INFO - Saved news data for ADBL to news_data_ADBL.csv with 90 records
+2025-05-09 09:17:05,426 - __main__ - INFO - Data ingestion pipeline completed
+2025-05-09 09:54:21,966 - __main__ - INFO - Starting data ingestion pipeline
+2025-05-09 09:54:21,966 - __main__ - INFO - Generating mock NEPSE stock data for NABIL
+2025-05-09 09:54:21,975 - __main__ - INFO - Saved NEPSE stock data for NABIL to nepse_data_NABIL.csv with 90 records
+2025-05-09 09:54:21,975 - __main__ - INFO - Generating mock news data for NABIL
+2025-05-09 09:54:21,979 - __main__ - INFO - Saved news data for NABIL to news_data_NABIL.csv with 90 records
+2025-05-09 09:54:21,979 - __main__ - INFO - Generating mock NEPSE stock data for NRIC
+2025-05-09 09:54:21,984 - __main__ - INFO - Saved NEPSE stock data for NRIC to nepse_data_NRIC.csv with 90 records
+2025-05-09 09:54:21,984 - __main__ - INFO - Generating mock news data for NRIC
+2025-05-09 09:54:21,986 - __main__ - INFO - Saved news data for NRIC to news_data_NRIC.csv with 90 records
+2025-05-09 09:54:21,986 - __main__ - INFO - Generating mock NEPSE stock data for SHIVM
+2025-05-09 09:54:21,994 - __main__ - INFO - Saved NEPSE stock data for SHIVM to nepse_data_SHIVM.csv with 90 records
+2025-05-09 09:54:21,994 - __main__ - INFO - Generating mock news data for SHIVM
+2025-05-09 09:54:21,997 - __main__ - INFO - Saved news data for SHIVM to news_data_SHIVM.csv with 90 records
+2025-05-09 09:54:21,999 - __main__ - INFO - Generating mock NEPSE stock data for HBL
+2025-05-09 09:54:22,003 - __main__ - INFO - Saved NEPSE stock data for HBL to nepse_data_HBL.csv with 90 records
+2025-05-09 09:54:22,003 - __main__ - INFO - Generating mock news data for HBL
+2025-05-09 09:54:22,006 - __main__ - INFO - Saved news data for HBL to news_data_HBL.csv with 90 records
+2025-05-09 09:54:22,006 - __main__ - INFO - Generating mock NEPSE stock data for EBL
+2025-05-09 09:54:22,011 - __main__ - INFO - Saved NEPSE stock data for EBL to nepse_data_EBL.csv with 90 records
+2025-05-09 09:54:22,011 - __main__ - INFO - Generating mock news data for EBL
+2025-05-09 09:54:22,015 - __main__ - INFO - Saved news data for EBL to news_data_EBL.csv with 90 records
+2025-05-09 09:54:22,015 - __main__ - INFO - Generating mock NEPSE stock data for SCB
+2025-05-09 09:54:22,023 - __main__ - INFO - Saved NEPSE stock data for SCB to nepse_data_SCB.csv with 90 records
+2025-05-09 09:54:22,023 - __main__ - INFO - Generating mock news data for SCB
+2025-05-09 09:54:22,025 - __main__ - INFO - Saved news data for SCB to news_data_SCB.csv with 90 records
+2025-05-09 09:54:22,025 - __main__ - INFO - Generating mock NEPSE stock data for KBL
+2025-05-09 09:54:22,034 - __main__ - INFO - Saved NEPSE stock data for KBL to nepse_data_KBL.csv with 90 records
+2025-05-09 09:54:22,034 - __main__ - INFO - Generating mock news data for KBL
+2025-05-09 09:54:22,039 - __main__ - INFO - Saved news data for KBL to news_data_KBL.csv with 90 records
+2025-05-09 09:54:22,039 - __main__ - INFO - Generating mock NEPSE stock data for NMB
+2025-05-09 09:54:22,044 - __main__ - INFO - Saved NEPSE stock data for NMB to nepse_data_NMB.csv with 90 records
+2025-05-09 09:54:22,046 - __main__ - INFO - Generating mock news data for NMB
+2025-05-09 09:54:22,046 - __main__ - INFO - Saved news data for NMB to news_data_NMB.csv with 90 records
+2025-05-09 09:54:22,046 - __main__ - INFO - Generating mock NEPSE stock data for GBIME
+2025-05-09 09:54:22,056 - __main__ - INFO - Saved NEPSE stock data for GBIME to nepse_data_GBIME.csv with 90 records
+2025-05-09 09:54:22,056 - __main__ - INFO - Generating mock news data for GBIME
+2025-05-09 09:54:22,058 - __main__ - INFO - Saved news data for GBIME to news_data_GBIME.csv with 90 records
+2025-05-09 09:54:22,058 - __main__ - INFO - Generating mock NEPSE stock data for NICA
+2025-05-09 09:54:22,063 - __main__ - INFO - Saved NEPSE stock data for NICA to nepse_data_NICA.csv with 90 records
+2025-05-09 09:54:22,063 - __main__ - INFO - Generating mock news data for NICA
+2025-05-09 09:54:22,068 - __main__ - INFO - Saved news data for NICA to news_data_NICA.csv with 90 records
+2025-05-09 09:54:22,068 - __main__ - INFO - Generating mock NEPSE stock data for PRVU
+2025-05-09 09:54:22,074 - __main__ - INFO - Saved NEPSE stock data for PRVU to nepse_data_PRVU.csv with 90 records
+2025-05-09 09:54:22,074 - __main__ - INFO - Generating mock news data for PRVU
+2025-05-09 09:54:22,077 - __main__ - INFO - Saved news data for PRVU to news_data_PRVU.csv with 90 records
+2025-05-09 09:54:22,077 - __main__ - INFO - Generating mock NEPSE stock data for SBI
+2025-05-09 09:54:22,083 - __main__ - INFO - Saved NEPSE stock data for SBI to nepse_data_SBI.csv with 90 records
+2025-05-09 09:54:22,083 - __main__ - INFO - Generating mock news data for SBI
+2025-05-09 09:54:22,085 - __main__ - INFO - Saved news data for SBI to news_data_SBI.csv with 90 records
+2025-05-09 09:54:22,085 - __main__ - INFO - Generating mock NEPSE stock data for ADBL
+2025-05-09 09:54:22,091 - __main__ - INFO - Saved NEPSE stock data for ADBL to nepse_data_ADBL.csv with 90 records
+2025-05-09 09:54:22,091 - __main__ - INFO - Generating mock news data for ADBL
+2025-05-09 09:54:22,095 - __main__ - INFO - Saved news data for ADBL to news_data_ADBL.csv with 90 records
+2025-05-09 09:54:22,095 - __main__ - INFO - Data ingestion pipeline completed
