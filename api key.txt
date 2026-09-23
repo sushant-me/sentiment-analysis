@@ -1,5 +1,0 @@
- TWITTER_CONSUMER_KEY = "YAAOaWHdjmKVx0iDKTOeMWpmba"  # Replace with your keys
-    TWITTER_CONSUMER_SECRET = "rQ5IsBcm8cawkDea9hx9P7tToNhkzwtWL5CUNRHFgH0lmbuDJc"
-    TWITTER_ACCESS_TOKEN = "1767217575581155328-1R45EGuXgra9zQ7Kxp7NUMAAbrTn1C"
-    TWITTER_ACCESS_TOKEN_SECRET = "MmSYAXyQz8RoodkrzrH4dHcNpLKLYafiyCuyn09Udesr0"
-    NEPSE_FLOOR_SHEET_URL = "https://www.nepalstock.com.np/floor-sheet"
